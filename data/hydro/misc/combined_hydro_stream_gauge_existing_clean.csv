@@ -1,0 +1,417 @@
+PtName,County,State,Pt_Own,OwType,Dam_Own,CH_MW,CH_MWh,CH_Pf,CH_OpYr,lat,lon,stream_gauge_id
+WoodlandMill,Washington,ME,Woodland Pulp LLC,Industrial,Woodland Pulp LLC,18.5,95205.73,58.74721091,1906,45.1580505,-67.4016571,1021000
+Corriveau,Oxford,ME,"GREEN POWER USA, LLC",Industrial,"GREEN POWER USA, LLC",0.35,0,0,1985,45.1116295,-69.4487076,1031500
+Errol Hydroelectric Project,Coos,NH,"Brookfield White Pine Hydro, LLC.",Wholesale Power Marketer,"Brookfield White Pine Hydro, LLC.",3,16827.82,64.03280061,1986,44.7865982,-71.1249008,1053500
+Smith,Coos,NH,Public Service Co of NH,Investor-Owned Utility,Public Service Co of NH,15,103476.82,78.7494825,1948,44.4692993,-71.1783981,1054000
+Cross Power,Coos,NH,Great Lakes Hydro America LLC,Wholesale Power Marketer,Great Lakes Hydro America LLC,3,13670.52291,52.01873253,1914,44.4569473,-71.1860657,1054000
+Cascade,Coos,NH,Great Lakes Hydro America LLC,Wholesale Power Marketer,Great Lakes Hydro America LLC,7.9,35999.04367,52.01873254,1914,44.4491272,-71.1867142,1054000
+Sawmill,Coos,NH,Great Lakes Hydro America LLC,Wholesale Power Marketer,Great Lakes Hydro America LLC,3.1,14126.20701,52.01873255,1914,44.4790421,-71.1679993,1054000
+Riverside,Coos,NH,Great Lakes Hydro America LLC,Wholesale Power Marketer,Great Lakes Hydro America LLC,7.9,35999.04367,52.01873254,1914,44.4744987,-71.1699982,1054000
+Pontook Hydro Facility,Coos,NH,Pontook Operating LP,Private Non-utility,Pontook Operating LP,10.5,61934.53,67.3347793,1986,44.6330986,-71.2483978,1054000
+Ammonoosuc Water Treatment Plant,Coos,NH,City of Berlin,Publicly Owned Utility, ,0.021,85,46.20569689,0,44.4900017,-71.2201385,1054000
+Rumford Falls Power,Oxford,ME,Brookfield Power New England,Wholesale Power Marketer,Brookfield Power New England,44.5,275141.27,70.58161972,1918,44.5425987,-70.5465012,1054500
+Abbott's Mill,Oxford,ME,Abbott's Mills Hydro-Electric Company,Private Non-utility,Abbott's Mills Hydro-Electric Company,0.09,0,0,1985,44.4752007,-70.6296997,1054500
+Days Mill,York,ME,James Quincy,Private Non-utility,James Quincy,0.03,0,0,1985,43.4575005,-70.6065979,1067950
+Campton Hydro Station,Grafton,NH,Mad River Power Associates,Private Non-utility,Mad River Power Associates,0.639,1503.328,26.85646094,1985,43.8622017,-71.6324997,1076500
+Lochmere Hydroelectric Plant,Belknap,NH,HDI Associates I,Private Non-utility,HDI Associates I,1.2,3740.67,35.58476027,1984,43.4730988,-71.5339966,1081000
+Lakeport,Belknap,NH,Lakeport Hydroelectric Associates,Private Non-utility,Lakeport Hydroelectric Associates,0.705,2000,32.38446841,1983,43.5485992,-71.4654999,1081000
+Avery,Belknap,NH,Ashuelot River Hydro Inc.,Private Non-utility,Ashuelot River Hydro Inc.,0.435,950,24.93045715,1986,43.5345001,-71.4681015,1081000
+Noone Mills,Hillsborough,NH,The Cobbs LLC,Private Non-utility,The Cobbs LLC,0.15,0,0,1984,42.8596001,-71.9614029,1082000
+Cheshire,Cheshire,NH,"D.D. Bean & Sons Company, Inc.",Industrial,"D.D. Bean & Sons Company, Inc.",0.1,482,55.02283105,1987,42.8170013,-72.0086975,1082000
+Hosiery Mill,Hillsborough,NH,Hillsborough Hydroelectric LP,Private Non-utility,Hillsborough Hydroelectric LP,1.2,2036.96,19.37747336,1989,43.1133003,-71.8944016,1085000
+Forster's Mill,Merrimack,NH,"Otter Lane Hydro, LLC",Private Non-utility,"Otter Lane Hydro, LLC",0.112,350,35.67351598,1984,43.3354988,-71.9529037,1086000
+Gregg Falls,Hillsborough,NH,Gregg Falls Hydro Elec Assoc Ltd Ptnrsp,Private Non-utility,Gregg Falls Hydro Elec Assoc Ltd Ptnrsp,3.5,10703.18,34.90926288,1985,43.0168991,-71.5686035,1091500
+Hadley Falls,Hillsborough,NH,New Hampshire Dept of Environmental,State,New Hampshire Dept of Environmental,0.25,0,0,1982,43.0185013,-71.5979004,1091500
+Amoskeag,Hillsborough,NH,Public Service Co of NH,Investor-Owned Utility,Public Service Co of NH,16,89139.65,63.59849458,1922,43.0021019,-71.4719009,1092000
+Hooksett,Merrimack,NH,Public Service Co of NH,Investor-Owned Utility,Public Service Co of NH,1.6,7790.18,55.58062215,1927,43.1013985,-71.4665985,1092000
+Waterloom Falls,Hillsborough,NH,"TRIDAM ENERGY, LLC",Private Non-utility,"TRIDAM ENERGY, LLC",0.15,0,0,1981,42.7496986,-71.8367004,1094000
+Otis Falls,Hillsborough,NH,"TRIDAM ENERGY, LLC",Private Non-utility,"TRIDAM ENERGY, LLC",0.2,360,20.54794521,1983,42.7669983,-71.8125,1094000
+Chamberlain Falls,Hillsborough,NH,"TRIDAM ENERGY, LLC",Private Non-utility,"TRIDAM ENERGY, LLC",0.13,380,33.36845803,1984,42.7687988,-71.8108978,1094000
+Pepperell Hydro Power Plant,Middlesex,MA,"Swift River Hydro Operations Co., Inc",Private Non-utility,"Swift River Hydro Operations Co., Inc",2.2,5114.69,26.53948734,1920,42.6651993,-71.5757751,1096500
+Centennial Island,Middlesex,MA,Centennial Island Hydroelectric Company,Private Non-utility,Centennial Island Hydroelectric Company,0.64,0,0,1990,42.6292992,-71.2984009,1099500
+Boott Hydropower,Middlesex,MA,Boott Hydropower Inc,Private Non-utility,Boott Hydropower Inc,22.9,86298.5,43.01933162,1985,42.6481018,-71.3087006,1100000
+Swamp Locks,Middlesex,MA,"Boott Hydropower, Inc. & Eldred L. Field Hydroelectric Facility Trust",Private Non-utility,"Boott Hydropower, Inc. & Eldred L. Field Hydroelectric Facility Trust",1.975,0,0,1985,42.6418991,-71.3160019,1100000
+Lower Pawtucket Locks,Middlesex,MA,"Boott Hydropower, Inc. & Eldred L. Field Hydroelectric Facility Trust",Private Non-utility,"Boott Hydropower, Inc. & Eldred L. Field Hydroelectric Facility Trust",5.94,0,0,1985,42.6441994,-71.3076019,1100000
+Russell Mill Pond,Plymouth,MA,Michael & Janice Goodman,Private Non-utility,Michael & Janice Goodman,0.015,78.84,60,1983,41.9171982,-70.6269989,1105876
+Central Falls,Providence,RI,"Gelardin/Bruner/Cott, Inc.",Private Non-utility,"Gelardin/Bruner/Cott, Inc.",0.7,4761,77.64187867,1983,41.9011002,-71.389801,1113895
+Still River,Windham,CT,Richard G. Mackowiak,Private Non-utility,Richard G. Mackowiak,0.0374,132.688,40.50008546,2000,41.8755989,-72.0854034,1120790
+Old Sturbridge Village,Worcester,MA,Old Sturbridge Village,Private Non-utility,Old Sturbridge Village,0.068,0,0,1982,42.1064987,-72.0945969,1123600
+West Dudley,Worcester,MA,"A & D Hydro, Inc.",Private Non-utility,"A & D Hydro, Inc.",0.346,0,0,1984,42.0500984,-71.9816971,1124000
+North Village Pond,Worcester,MA,"Webster Hydro Electric Company, Inc.",Private Non-utility,"Webster Hydro Electric Company, Inc.",0.4,0,0,1916,42.0633011,-71.8806992,1125100
+Putnam,Windham,CT,"Putnam Hydropower, Inc.",Private Non-utility,"Putnam Hydropower, Inc.",0.55,2000,41.51100042,1923,41.9216995,-71.9089966,1125500
+Toutant,Windham,CT,"Energy Stream, LLC.",Private Non-utility,"Energy Stream, LLC.",0.4,2200,62.78538813,1989,41.9230995,-71.9072037,1125500
+Cargill Falls,Windham,CT,"Putnam Green Power, LLC",Private Non-utility,"Putnam Green Power, LLC",0.875,2523,32.91585127,2016,41.9232788,-71.9065247,1125500
+Wyre - Wynd,New London,CT,"Aspinook Hydro, LLC",Private Non-utility,"Aspinook Hydro, LLC",2.78,11000,45.16934398,1984,41.6097984,-71.9856033,1127000
+Gilman Mill,Essex,VT,Ampersand Gilman Hydro LP,Private Non-utility,Ampersand Gilman Hydro LP,4.8,19667.24,46.7733067,1941,44.4098015,-71.7176971,1131500
+Emerson Falls,Caledonia,VT,Emerson Falls Hydro Associates,Private Non-utility,Emerson Falls Hydro Associates,0.25,800,36.52968037,1985,44.4350014,-72.0389023,1135300
+Gage,Caledonia,VT,Central Vermont Pub Serv Corp,Investor-Owned Utility,Central Vermont Pub Serv Corp,0.7,0,0,1921,44.3970985,-72.0241013,1135500
+Passumpsic,Caledonia,VT,Central Vermont Pub Serv Corp,Investor-Owned Utility,Central Vermont Pub Serv Corp,0.7,0,0,1929,44.3745995,-72.0263977,1135500
+Wells River,Orange,VT,Boltonville Hydro Associates,Private Non-utility,Boltonville Hydro Associates,1.1,4571.85,47.44551681,1984,44.1707993,-72.0998993,1139000
+Killington,Rutland,VT,Killington Hydroelectric Company,Private Non-utility,Killington Hydroelectric Company,0.1,350,39.9543379,1985,43.6801987,-72.7875977,1150900
+North Hartland,Windsor,VT,Vermont Electric Coop Inc,Cooperative,CENAE,4,0,0,1985,43.6050987,-72.3597031,1151500
+Deweys Mill,Windsor,VT,Hydro Energies Inc,Private Non-utility,US Army Corps of Engineers - NAE,3,5891.58,22.41849315,1989,43.6404991,-72.4067001,1151500
+Taftsville,Windsor,VT,Central Vermont Pub Serv Corp,Investor-Owned Utility,Central Vermont Pub Serv Corp,0.5,0,0,1943,43.6311989,-72.4685974,1151500
+Downers Mill,Windsor,VT,"Simon Pearce (U.S.), Inc.",Private Non-utility,"Simon Pearce (U.S.), Inc.",0.4,0,0,1983,43.6455002,-72.4194031,1151500
+Sunapee,Sullivan,NH,"Town of Sunapee, NH",Publicly Owned Utility,"Town of Sunapee, NH",0.6,0,0,1985,43.3855019,-72.0820007,1152010
+Lower Village Water Power Project,Sullivan,NH,GREEN MOUNTAIN POWER CORP      (VT),Investor-Owned Utility,GREEN MOUNTAIN POWER CORP      (VT),1.2,1958.75,18.63346651,1995,43.3744011,-72.3468018,1152500
+Lower Village,Sullivan,NH,"SUGAR RIVER POWER, LLC",Private Non-utility,"SUGAR RIVER POWER, LLC",1.35,4600,38.89734483,1995,43.3744011,-72.3494034,1152500
+Cavendish,Windsor,VT,Central Vermont Pub Serv Corp,Investor-Owned Utility,Central Vermont Pub Serv Corp,1.7,5622.82,37.75731937,1907,43.3810005,-72.5988007,1153000
+Nash Mill,Cheshire,NH,"Marlow Hydro, LLC",Private Non-utility,"Marlow Hydro, LLC",0.212,474,25.52339106,1984,43.0978012,-72.1998978,1157000
+Hunts Pond,Worcester,MA,"O'Connell Engineering & Financial, Inc.",Private Non-utility,"O'Connell Engineering & Financial, Inc.",0.12,0,0,1986,42.6791,-72.0477982,1162000
+Tannery Pond,Worcester,MA,"French River Land Company, Inc.",Private Non-utility,"French River Land Company, Inc.",0.189,650,39.25974246,2000,42.6804008,-72.0538025,1162000
+New Home,Franklin,MA,Mini-Watt Hydroelectric LLC,Private Non-utility,Mini-Watt Hydroelectric LLC,0.415,0,0,1940,42.5894012,-72.3100967,1166500
+Cresticon Upper,Worcester,MA,L.P. Athol Corporation,Private Non-utility,L.P. Athol Corporation,0.25,0,0,1931,42.5960999,-72.2192001,1166500
+Cresticon Lower,Worcester,MA,L.P. Athol Corporation,Private Non-utility,L.P. Athol Corporation,0.25,0,0,1931,42.5965004,-72.2205963,1166500
+Crescent Street,Worcester,MA,L.S. Starrett Company,Industrial,L.S. Starrett Company,0.448,1729.2,44.06188845,2014,42.5948143,-72.2265472,1166500
+Deerfield No. 2,Franklin,MA,"GREAT RIVER HYDRO, LLC.",Wholesale Power Marketer,"GREAT RIVER HYDRO, LLC.",4.8,22363.35,53.18528824,1913,42.5730019,-72.7070999,1170000
+Deerfield No. 3,Franklin,MA,"GREAT RIVER HYDRO, LLC.",Wholesale Power Marketer,"GREAT RIVER HYDRO, LLC.",4.8,24963.47,59.36898307,1912,42.6016998,-72.7378998,1170000
+Gardners Falls,Franklin,MA,"NAUTILUS HYDRO, LLC",Wholesale Power Marketer,"NAUTILUS HYDRO, LLC",3.5,8037.09,26.21360078,1914,42.591301,-72.7306976,1170000
+Hadley Falls,Hampden,MA,City of Holyoke Gas and Electric Dept.,Publicly Owned Utility,City of Holyoke Gas and Electric Dept.,33.4,186845.24,63.86037514,1952,42.2136078,-72.6023331,1172010
+Boatlock,Hampden,MA,City of Holyoke Gas and Electric Dept.,Publicly Owned Utility,City of Holyoke Gas and Electric Dept.,3.1,13361.82,49.20393283,1921,42.2088776,-72.6002274,1172010
+Beebe Holbrook,Hampden,MA,Holyoke Water Power Company,Investor-Owned Utility,Holyoke Water Power Company,0.516,0,0,1950,42.2088776,-72.6002274,1172010
+Skinner,Hampden,MA,Holyoke Water Power Company,Investor-Owned Utility,Holyoke Water Power Company,0.3,0,0,1950,42.2088776,-72.6002274,1172010
+Holyoke No. 1,Hampden,MA,City of Holyoke Gas and Electric Dept.,Publicly Owned Utility,City of Holyoke Gas and Electric Dept.,2.6,6859.89,30.11894099,1893,42.2088776,-72.6002274,1172010
+Holyoke No. 4 Hydro Station,Hampden,MA,City of Holyoke Gas & Electric Department,Publicly Owned Utility,City of Holyoke Gas & Electric Department,0.75,0,0,1901,42.2088776,-72.6002274,1172010
+Riverside,Hampden,MA,City of Holyoke Gas and Electric Dept.,Publicly Owned Utility,City of Holyoke Gas and Electric Dept.,6.9,31047.65,51.36597512,1906,42.1948509,-72.6137924,1172010
+Nonotuck Mill,Hampden,MA,City of Holyoke Gas and Electric Dept.,Publicly Owned Utility,City of Holyoke Gas and Electric Dept.,0.5,2141.95516,48.90308584,1982,42.1948509,-72.6137924,1172010
+Holyoke No. 3 Hydro Station,Hampden,MA,City of Holyoke Gas and Electric Dept.,Publicly Owned Utility,City of Holyoke Gas and Electric Dept.,0.45,0,0,1940,42.1955986,-72.612999,1172010
+Chemical,Hampden,MA,City of Holyoke Gas and Electric Dept.,Publicly Owned Utility,City of Holyoke Gas and Electric Dept.,1.6,4223.24,30.13156393,1935,42.1948967,-72.6043549,1172010
+Station No. 5 Powerhouse,Hampden,MA,City of Holyoke Gas & Electric Department,Publicly Owned Utility,City of Holyoke Gas & Electric Department,0.79,2009,29.03011387,1931,42.2080994,-72.5968018,1172010
+Collins Facility,Hampden,MA,"Ampersand Collins Hydro, LLC.",Private Non-utility,"Ampersand Collins Hydro, LLC.",1.2,4857.93,46.21318493,1985,42.1568985,-72.422699,1177000
+Redbridge,Hampden,MA,"ESSENTIAL POWER MASSACHUSETTS, LLC",Wholesale Power Marketer,"ESSENTIAL POWER MASSACHUSETTS, LLC",3.6,13257.26,42.03849569,1926,42.1773987,-72.4092026,1177000
+Putts Bridge,Hampden,MA,"ESSENTIAL POWER MASSACHUSETTS, LLC",Wholesale Power Marketer,"ESSENTIAL POWER MASSACHUSETTS, LLC",3.2,12891.09,45.98705051,1918,42.1562996,-72.4848022,1177000
+Indian Orchard,Hampden,MA,"ESSENTIAL POWER MASSACHUSETTS, LLC",Wholesale Power Marketer,"ESSENTIAL POWER MASSACHUSETTS, LLC",3.7,6517.07,20.10696656,1928,42.1618996,-72.5028,1177000
+Christine Falls,Hamilton,NY,"Christine Falls of New York, Inc.",Wholesale Power Marketer,"Christine Falls of New York, Inc.",0.85,2760,37.06688155,1988,43.5127983,-74.3097992,1321000
+Lake Algonquin,Hamilton,NY,"Town of Wells, NY",Publicly Owned Utility,"Town of Wells, NY",0.698,2660,43.50329055,1987,43.3902016,-74.2926025,1321000
+South Glens Falls,"Warren, Saratoga",NY,Boralex Hydro Operations Inc,Private Non-utility,Boralex Hydro Operations Inc,13.8,77188.18,63.85098604,1994,43.3049011,-73.6429977,1327750
+Glens Falls,"Warren, Saratoga",NY,FH OPCO LLC,Wholesale Power Marketer,FH OPCO LLC,11.8,57541.4,55.66655058,1944,43.3049011,-73.6429977,1327750
+Sherman Island,Saratoga,NY,Erie Boulevard Hydropower LP,Wholesale Power Marketer,Erie Boulevard Hydropower LP,36.3,161358.12,50.74346202,1923,43.2729988,-73.7202988,1327750
+Spier Falls,Saratoga,NY,Erie Boulevard Hydropower LP,Wholesale Power Marketer,Erie Boulevard Hydropower LP,56,230331.06,46.95267857,1924,43.2346001,-73.7574005,1327750
+Feeder Dam,Warren,NY,Erie Boulevard Hydropower LP,Wholesale Power Marketer,Erie Boulevard Hydropower LP,5,24986.41,57.04659817,1924,43.290699,-73.6661987,1327750
+Curtis,Saratoga,NY,EPCOR Generation Inc,Private Non-utility,EPCOR Generation Inc,9.8,55335.15851,64.4571318,1985,43.2467003,-73.828598,1327750
+Palmer,Saratoga,NY,EPCOR Generation Inc,Private Non-utility,EPCOR Generation Inc,49.2,277805.0815,64.4571318,1985,43.2491989,-73.8209,1327750
+Hudson Falls Hydroelectric Project,Saratoga,NY,Boralex Hydro Operations Inc,Private Non-utility,Boralex Hydro Operations Inc,44,216114.83,56.06964249,1995,43.2969017,-73.592598,1327750
+Fort Miller Hydroelectric Facility,Saratoga,NY,Fort Miller Associates,Private Non-utility,Fort Miller Associates,5,24496.65,55.92842466,1984,43.161499,-73.5836029,1328770
+Newport Hydro,Herkimer,NY,Newport Hydro Associates,Private Non-utility,Newport Hydro Associates,1.7,7329.68,49.21890948,1987,43.1851997,-75.0178986,1346000
+Little Falls Hydro,Herkimer,NY,Little Falls Hydroelec Assoc,Private Non-utility,Little Falls Hydroelec Assoc,13,54893.71,48.20311732,1987,43.0372009,-74.8647003,1347000
+Dolgeville Hydro,Herkimer,NY,EONY GENERATION LIMITED,Wholesale Power Marketer,EONY GENERATION LIMITED,5,13073.06,29.84716895,1985,43.0917015,-74.7664032,1348000
+Beardslee,Herkimer,NY,Erie Boulevard Hydropower LP,Wholesale Power Marketer,Erie Boulevard Hydropower LP,20,48522.96,27.69575342,1924,43.0243759,-74.7438354,1348000
+Inghams,Fulton,NY,Erie Boulevard Hydropower LP,Wholesale Power Marketer,Erie Boulevard Hydropower LP,6,26605.62,50.61952055,1912,43.0622368,-74.7656479,1348000
+Blenheim Gilboa,Schoharie,NY,New York Power Authority,State,New York Power Authority,0,0,0,0,42.4450989,-74.4384003,1350180
+Normanskill Hydro Project,Albany,NY,Watervliet City of,Publicly Owned Utility,Watervliet City of,1.2,2880.94,27.40620244,1983,42.7112999,-73.960701,1359528
+Chittenden Falls,Columbia,NY,Chittenden Falls Hydro Power  Inc. & Chittenden Falls Dam,Private Non-utility,Chittenden Falls Hydro Power  Inc. & Chittenden Falls Dam,0.85,2500,33.57507387,1928,42.3333015,-73.7446976,1361000
+High Falls,Ulster,NY,Central Hudson Gas & Elec Corp,Investor-Owned Utility,Central Hudson Gas & Elec Corp,3.2,5312.18,18.95041381,1986,41.8297005,-74.1330032,1367500
+Walden,Orange,NY,"WALDEN HYDRO, LLC",Private Non-utility,"WALDEN HYDRO, LLC",2.4,4470.38,21.26322298,1986,41.5592995,-74.1949997,1371500
+Montgomery Worsted,Orange,NY,"Steinberger Brothers, Inc.",Private Non-utility,"Steinberger Brothers, Inc.",0.375,0,0,1988,41.5307999,-74.2276993,1371500
+Wallkill,Ulster,NY,"Natural Power Group, Inc.",Private Non-utility,"Natural Power Group, Inc.",0.512,3670,81.82612728,1987,41.6052017,-74.1865005,1371500
+Blackstone Mill,Dauphin,PA,"Theodore A. Keck, III & Holly S. Keck",Private Non-utility,"Theodore A. Keck, III & Holly S. Keck",0.065,200,35.12469266,1983,40.6456985,-76.8019028,1555500
+Warrior Ridge Hydro,Huntingdon,PA,American Hydro Power PLP,Private Non-utility,American Hydro Power PLP,2.8,6551.69,26.71106491,1985,40.5393982,-78.0351028,1559000
+Harrisburg Water Supply,Dauphin,PA,City of Harrisburg,Publicly Owned Utility,City of Harrisburg,0.19,1466,88.07978851,2002,40.4616699,-76.7452774,1570500
+Newport,Page,VA,"PE Hydro Generation, LLC.",Investor-Owned Utility,"PE Hydro Generation, LLC.",1.4,4858.18,39.61333986,1923,38.5712013,-78.5929031,1629500
+Shenandoah,Page,VA,"PE Hydro Generation, LLC.",Investor-Owned Utility,"PE Hydro Generation, LLC.",0.862,0,0,1925,38.4816399,-78.6273193,1629500
+Millville,Jefferson,WV,"PE Hydro Generation, LLC.",Investor-Owned Utility,"PE Hydro Generation, LLC.",2.8,10082.06,41.10428898,1913,39.2687988,-77.7823029,1636500
+Rapidan Mill,Orange,VA,"Hall, Melvin R.",Private Non-utility,"Hall, Melvin R.",0.105,843,91.65035877,1985,38.3100014,-78.0655975,1667500
+Lake Anna,Louisa,VA,Virginia Electric & Power Co,Investor-Owned Utility,Virginia Electric & Power Co,1,721581.89,8237.236187,1987,38.0119019,-77.7133026,1670400
+Bath County,Bath,VA,Virginia Electric & Power Co,Investor-Owned Utility,Virginia Electric & Power Co,0,0,0,0,38.2266006,-79.8237,2011490
+Cushaw,Amherst,VA,Virginia Electric & Power Co,Investor-Owned Utility,Virginia Electric & Power Co,7.5,11777.24,17.92578387,1930,37.591301,-79.3812027,2024752
+Bedford,"Amherst, Bedford",VA,City of Bedford,Publicly Owned Utility,City of Bedford,5,14429.88,32.94493151,1987,37.5760002,-79.3743973,2024752
+Holcomb Rock,"Amherst, Bedford",VA,Holcomb Rock Company,Industrial,Holcomb Rock Company,1.8,4510,28.60223237,1920,37.5101013,-79.2658997,2025500
+Bynum,Chatham,NC,"PK Ventures, Incorporated",Private Non-utility,"PK Ventures, Incorporated",0.6,2461,46.82267884,0,35.7756996,-79.1492004,2096960
+99 Islands,Cherokee,SC,"Duke Energy Carolinas, LLC",Investor-Owned Utility,"Duke Energy Carolinas, LLC",12,53241.71,50.64850647,1910,35.0326996,-81.4949036,2153551
+Cherokee Falls,Cherokee,SC,"CHEROKEE FALLS HYDRO PROJECT, LLC",Private Non-utility,"CHEROKEE FALLS HYDRO PROJECT, LLC",4.3,5459.56,14.49389402,1985,35.0638008,-81.5484009,2153551
+Saluda,Greenville,SC,Northbrook Carolina Hydro LLC,Private Non-utility,Northbrook Carolina Hydro LLC,2.4,6581.18,31.30317732,1996,34.852478,-82.4844894,2162500
+Piedmont Hydro Power Project,Greenville,SC,Aquenergy Systems Inc,Private Non-utility,Aquenergy Systems Inc,1,6152.16,70.23013699,1989,34.7014008,-82.4625015,2163001
+Pelzer Lower,Anderson,SC,Pelzer Hydro Co Inc,Private Non-utility,Pelzer Hydro Co Inc,3.3,8617.28,29.80932614,1989,34.6162987,-82.4477997,2163001
+Pelzer Upper,Anderson,SC,"CHI West, Inc.",Private Non-utility,"CHI West, Inc.",2,6672.8,38.08675799,1989,34.6430016,-82.4549026,2163001
+Ware Shoals Hydro Project,Laurens,SC,Aquenergy Systems Inc,Private Non-utility,Aquenergy Systems Inc,6.2,12942.55,23.83000074,1939,34.4039001,-82.2450027,2163500
+Hollidays Bridge,Anderson,SC,Northbrook Carolina Hydro LLC,Private Non-utility,Northbrook Carolina Hydro LLC,4,9744.88,27.81073059,1996,34.529438,-82.3773041,2163500
+Buzzard Roost,Greenwood,SC,"Duke Energy Carolinas, LLC",Investor-Owned Utility,"Duke Energy Carolinas, LLC",15,20845.2,15.86392694,1940,34.1692009,-81.9024963,2167000
+Saluda,Lexington,SC,South Carolina Electric&Gas Co,Investor-Owned Utility,South Carolina Electric&Gas Co,207.3,134232.88,7.391890076,1930,34.0527992,-81.2185974,2168504
+St Stephen,Berkeley,SC,US Army Corps of Engineers,USACE,South Carolina Pub Serv Auth,84,187452.18,25.47458415,1985,33.4254913,-79.9301224,2171645
+Terrora,Rabun,GA,Georgia Power Co,Investor-Owned Utility,Georgia Power Co,16,40191.88,28.67571347,1925,34.7653999,-83.4161987,2181350
+Nacoochee,Rabun,GA,Georgia Power Co,Investor-Owned Utility,Georgia Power Co,4.8,12476.18,29.67128044,1926,34.7549019,-83.5011978,2181350
+Burton,Rabun,GA,Georgia Power Co,Investor-Owned Utility,Georgia Power Co,6,20483.94,38.97248858,1927,34.7937012,-83.5402985,2181350
+Tallulah Falls,Rabun,GA,Georgia Power Co,Investor-Owned Utility,Georgia Power Co,72,137037.71,21.72718639,1913,34.7392006,-83.3957977,2181580
+Stevens Creek,Columbia,GA,South Carolina Electric&Gas Co,Investor-Owned Utility,South Carolina Electric&Gas Co,17.6,63006.41,40.86654862,1914,33.5639,-82.0491028,2196485
+Milstead,Rockdale,GA,Mill Shoals Hydro Co Inc,Private Non-utility,Mill Shoals Hydro Co Inc,1,2050.91,23.41221461,1994,33.6910019,-83.9942017,2207335
+Porterdale Hydro,Newton,GA,"VC Porterdale Hydroelectric, LLC",Private Non-utility,"VC Porterdale Hydroelectric, LLC",3,935.750125,3.560693018,1927,33.5704002,-83.8964996,2208000
+High Shoals Hydro,Oconee,GA,JASON & CAROL VICTORIA PRESLEY,Private Non-utility,JASON & CAROL VICTORIA PRESLEY,1.4,781.49,6.372227658,1988,33.8175011,-83.5095978,2219000
+Morgan Falls,"Fulton, Cobb",GA,Georgia Power Co,Investor-Owned Utility,Georgia Power Co,16.8,33650.29,22.86522206,1903,33.9681015,-84.3841019,2335815
+North Highlands,Muscogee,GA,Georgia Power Co,Investor-Owned Utility,Georgia Power Co,29.6,105930.76,40.85321794,1963,32.5,-85,2341460
+Elba,Coffee,AL,"Elba Hydro-Electric Power, Inc.",Private Non-utility,"Elba Hydro-Electric Power, Inc.",2.447,11000,51.31621424,0,31.3640003,-86.0935974,2364500
+Point A,Covington,AL,PowerSouth Energy Cooperative,Cooperative,PowerSouth Energy Cooperative,5.2,15369.88,33.74139445,1925,31.3610001,-86.5184021,2372430
+Seneca,Warren,PA,"Seneca Generation, LLC",Wholesale Power Marketer,CELRP,0,0,0,0,41.8387985,-79.0058975,3012550
+Piney,Clarion,PA,BP Piney & Deep Creek LLC,Private Non-utility,BP Piney & Deep Creek LLC,30,68043.84,25.89187215,1924,41.1917992,-79.4339981,3030500
+Conemaugh,Westmoreland,PA,Pennsylvania Renewable Resources,Private Non-utility,CELRP,15,33115.47,25.20203196,1989,40.4673996,-79.3654022,3044000
+New Martinsville,Wetzel,WV,New Martinsville Hannibal Hydro,Publicly Owned Utility,CELRP,37.4,206048.95,62.89189742,1988,39.6669998,-80.8644028,3114306
+Summersville,Nicholas,WV,Gauley River Power Partners  LP,Private Non-utility,CELRH,80,193034.36,27.54485731,2001,38.2223015,-80.8899994,3192000
+FLANNAGAN,Dickenson,VA,JORDAN HYDROELECTRIC L.P.,Private Non-utility,CELRH,3,9500,24.6471565,2012,37.2333298,-82.3450012,3209000
+O'Shaughnessy Hydro,Delaware,OH,City of Columbus,Publicly Owned Utility,City of Columbus,5.2,5672.06,12.45183527,1988,40.1539001,-83.1256027,3221000
+Dix Dam,Mercer,KY,Kentucky Utilities Co,Investor-Owned Utility,Kentucky Utilities Co,28.2,70019.18,28.34417403,1925,37.7854652,-84.7037888,3286200
+Mother Ann Lee,Mercer,KY,Lock 7 Hydro Partners LLC,Private Non-utility,US Army Corps of Engineers,2.1,5890,32.01782996,2007,37.8311005,-84.7238998,3287000
+J P Priest,DAVIDSON,TN,USCE-Nashville District,USACE,USCE-Nashville District,28,63358.94,25.83127038,1970,36.1560707,-86.61866,3430200
+Ivy River Hydro,Madison,NC,Madison Hydro Partners,Private Non-utility,Madison Hydro Partners,1.2,1714.322,16.3082382,1985,35.771801,-82.6190033,3453000
+Franklin,Macon,NC,"Duke Energy Carolinas, LLC",Investor-Owned Utility,"Duke Energy Carolinas, LLC",1,7817,89.23515982,1925,35.2195015,-83.3712997,3503000
+White River,Ashland,WI,Northern States Power Co - Minnesota,Investor-Owned Utility,Northern States Power Co - Minnesota,1,3966.41,45.27865297,1907,46.4976997,-90.9088974,4027500
+Marquette,Marquette,MI,City of Marquette,Publicly Owned Utility,City of Marquette,3.2,10167.35,36.27051227,1919,46.5691986,-87.4543991,4044003
+Tourist Park,Marquette,MI,City of Marquette,Publicly Owned Utility,City of Marquette,0.7,4217,68.77038487,1919,46.5717506,-87.4132919,4044003
+Hoist,Marquette,MI,Upper Peninsula Power Co,Investor-Owned Utility,Upper Peninsula Power Co,3.4,12515.59,42.02118587,1988,46.5600014,-87.5599976,4044003
+Autrain,Alger,MI,Upper Peninsula Power Co,Investor-Owned Utility,Upper Peninsula Power Co,0.9,0,0,1910,46.3333015,-86.8499985,4044724
+Cataract,Marquette,MI,Upper Peninsula Power Co,Investor-Owned Utility,Upper Peninsula Power Co,2,2427.47,13.85542237,1988,46.3160019,-87.5127029,4058100
+Lower Paint,Iron,MI,Wisconsin Electric Power Co,Investor-Owned Utility,Wisconsin Electric Power Co,0.1,261,29.79452055,1952,46.0200005,-88.2617035,4062000
+Crystal Falls,Iron,MI,City of Crystal Falls,Publicly Owned Utility,City of Crystal Falls,1,4919.59,56.1597032,1914,46.1066017,-88.3345032,4062000
+Brule,Florence,WI,Wisconsin Electric Power Co,Investor-Owned Utility,Wisconsin Electric Power Co,5.3,15915.53,34.28002498,1919,45.9473991,-88.2186966,4062011
+Pine,Florence,WI,Wisconsin Electric Power Co,Investor-Owned Utility,Wisconsin Electric Power Co,3.2,12014.18,42.85880422,1922,45.8283005,-88.2533035,4064500
+Big Quinnesec Falls,Dickinson,MI,Wisconsin Electric Power Co,Investor-Owned Utility,Wisconsin Electric Power Co,16,93763.53,66.89749572,1949,45.7867012,-88.0417023,4066003
+Old Quinnesec Falls,Dickinson,MI,Wisconsin Electric Power Co,Investor-Owned Utility,Wisconsin Electric Power Co,4.4,3893.53,10.10152034,1914,45.7867012,-88.0417023,4066003
+Little Quinnesec Falls,Marinette,WI,NewPage Corporation,Private Non-utility,NewPage Corporation,9,54715,69.40005074,1900,45.7739983,-87.9889984,4066003
+White Rapids,Menominee,MI,Wisconsin Electric Power Co,Investor-Owned Utility,Wisconsin Electric Power Co,9,32218.35,40.86548706,1927,45.4799995,-87.803299,4066030
+Chalk Hill,Menominee,MI,Wisconsin Electric Power Co,Investor-Owned Utility,Wisconsin Electric Power Co,7.8,29905.65,43.76778188,1927,45.5136986,-87.8018036,4066030
+Potato Rapids,Marinette,WI,Wisconsin Public Service Corp,Investor-Owned Utility,Wisconsin Public Service Corp,1.3,4073.12,35.76677204,1921,45.1144981,-87.7618027,4069500
+Peshtigo,Marinette,WI,Wisconsin Public Service Corp,Investor-Owned Utility,Wisconsin Public Service Corp,0.584,3226,63.05904798,1920,45.0466995,-87.7450027,4069500
+Stiles,Oconto,WI,Oconto Electric Cooperative,Cooperative,Oconto Electric Cooperative,1,4995.58,57.02716895,1949,44.8578987,-88.0535965,4071765
+Oconto Falls,Oconto,WI,N E W Hydro Inc,Private Non-utility,N E W Hydro Inc,1.1,6581.37,68.2998132,1918,44.8767014,-88.146698,4071765
+Oconto Falls Lower,Oconto,WI,N E W Hydro Inc,Private Non-utility,N E W Hydro Inc,2,7709.18,44.00216895,1971,44.8699989,-88.1433029,4071765
+Sturgis,St Joseph,MI,City of Sturgis,Publicly Owned Utility,City of Sturgis,2.2,8410.82,43.64269406,1911,41.9667015,-85.5333023,4097500
+Three Rivers,St Joseph,MI,Grande Pointe Power,Private Non-utility,Grande Pointe Power,0.9,3082,39.09183156,1918,41.9417,-85.625,4097500
+Twin Branch,St Joseph,IN,Indiana Michigan Power Co,Investor-Owned Utility,Indiana Michigan Power Co,4.8,26302.06,62.55246385,1989,41.6666985,-86.1316986,4101225
+South Bend,St Joseph,IN,"South Bend, City of",Private Non-utility,"South Bend, City of",0.05,275.7352941,62.95326349,0,41.6760941,-86.2461548,4101225
+French Paper Hydro,Berrien,MI,French Paper Company,Industrial,French Paper Company,1.3,7642.62,67.11116965,1921,41.8181,-86.259201,4101500
+Calkins Bridge,Allegan,MI,Consumers Energy Co,Investor-Owned Utility,Consumers Energy Co,2.6,13146,57.71865121,1935,42.5634003,-85.9533005,4108660
+Moores Park,Ingham,MI,Lansing City of,Publicly Owned Utility,Lansing City of,1,952,10.86757991,1907,42.718399,-84.5607986,4113000
+Croton,Newaygo,MI,Consumers Energy Co,Investor-Owned Utility,Consumers Energy Co,8.9,36345.53,46.61834949,1907,43.4216995,-85.8016968,4122001
+Hodenpyl,Wexford,MI,Consumers Energy Co,Investor-Owned Utility,Consumers Energy Co,17,43534.06,29.2331856,1925,44.362999,-85.8199997,4124200
+Tippy,Manistee,MI,Consumers Energy Co,Investor-Owned Utility,Consumers Energy Co,20.1,60218.35,34.20020332,1918,44.2583008,-85.9383011,4125550
+Edison Sault,Chippewa,MI,Edison Sault Electric Co,Cooperative,Edison Sault Electric Co,41.8,176322.12,48.15333945,1901,46.4973869,-84.3320847,4127885
+Mio,Oscoda,MI,Consumers Energy Co,Investor-Owned Utility,Consumers Energy Co,5,14228.94,32.48616438,1916,44.6609001,-84.1316986,4136500
+Alcona,Alcona,MI,Consumers Energy Co,Investor-Owned Utility,Consumers Energy Co,8,27098.29,38.66765126,1924,44.5619011,-83.8041992,4137005
+Foote,Iosco,MI,Consumers Energy Co,Investor-Owned Utility,Consumers Energy Co,9,29305.65,37.17104262,1918,44.4350014,-83.4400024,4137500
+Cooke,Iosco,MI,Consumers Energy Co,Investor-Owned Utility,Consumers Energy Co,9,26008.53,32.98900304,1911,44.4724998,-83.571701,4137500
+Five Channels,Iosco,MI,Consumers Energy Co,Investor-Owned Utility,Consumers Energy Co,6,23802.24,45.28584475,1912,44.4850006,-83.6817017,4137500
+Barton Dam,Washtenaw,MI,"Ann Arbor, City of",Publicly Owned Utility,"Ann Arbor, City of",0.9,0,0,1985,42.3083,-83.754303,4174500
+Auglaize Hydro,Defiance,OH,City of Bryan,Publicly Owned Utility,City of Bryan,3.6,9061.01,28.73227423,1986,41.2374001,-84.4000015,4191500
+Rochester 2,Monroe,NY,Rochester Gas & Electric Corp,Investor-Owned Utility,Rochester Gas & Electric Corp,8.5,35386.82,47.52460381,1960,43.1612015,-77.6137009,4231600
+Rochester 26,Monroe,NY,Rochester Gas & Electric Corp,Investor-Owned Utility, ,3,5634.545745,21.4,1952,43.1521988,-77.6098022,4231600
+Seneca Falls,Seneca,NY,"C-S CANAL HYDRO, LLC",Investor-Owned Utility,"C-S CANAL HYDRO, LLC",8,19669.49,28.06719463,1917,42.9149017,-76.7871017,4232730
+Waterloo,Seneca,NY,"C-S Canal Hydro, LLC",Private Non-utility,"C-S CANAL HYDRO, LLC",1.5,5200,39.5738204,1915,42.9019127,-76.8623276,4232730
+Mill Street Dam,Cayuga,NY,"City of Auburn, NY",Publicly Owned Utility,"City of Auburn, NY",0.41,0,0,1981,42.9286003,-76.5594025,4235440
+North Division Street,Cayuga,NY,"City of Auburn, NY",Publicly Owned Utility,"City of Auburn, NY",0.75,0,0,1992,42.9319992,-76.5851974,4235440
+Minetto,Oswego,NY,Erie Boulevard Hydropower LP,Wholesale Power Marketer,Erie Boulevard Hydropower LP,10,34594.74,39.49171233,1915,43.3997993,-76.4723969,4249000
+High Dam,Oswego,NY,Oswego City of,Publicly Owned Utility,Oswego City of,11.9,43546.18,41.77332029,1928,43.4432983,-76.495903,4249000
+Bennetts Bridge,Oswego,NY,Erie Boulevard Hydropower LP,Wholesale Power Marketer,Erie Boulevard Hydropower LP,36,92975.87,29.48245497,1932,43.5444984,-75.9195023,4250200
+Lighthouse Hill,Oswego,NY,Erie Boulevard Hydropower LP,Wholesale Power Marketer,Erie Boulevard Hydropower LP,8,18250.34,26.04215183,1930,43.5245018,-75.9705963,4250200
+Adams,Jefferson,NY,"Trafalgar Power, Inc.",Private non-utility,"Trafalgar Power, Inc.",0.387,0,0,1987,43.8069,-76.0189972,4250750
+Forestport,Oneida,NY,Trafalgar Power Inc,Private Non-utility,Trafalgar Power Inc,3.4,11135.53,37.38762423,1987,43.4403,-75.2061996,4252500
+Kayuta,Oneida,NY,"AMPERSAND KAYUTA LAKE HYDRO, LLC",Private non-utility,"AMPERSAND KAYUTA LAKE HYDRO, LLC",0.4,2000,57.07762557,1984,43.4231987,-75.2077026,4252500
+Effley,Lewis,NY,Erie Boulevard Hydropower LP,Wholesale Power Marketer,Erie Boulevard Hydropower LP,3,15113.02,57.50768645,1902,43.9227982,-75.2776031,4258000
+Soft Maple,Lewis,NY,Erie Boulevard Hydropower LP,Wholesale Power Marketer,Erie Boulevard Hydropower LP,16,37188.75,26.53306935,1925,43.9191017,-75.242897,4258000
+Eagle,Lewis,NY,Erie Boulevard Hydropower LP,Wholesale Power Marketer,Erie Boulevard Hydropower LP,6,31039.47,59.05530822,1914,43.9017982,-75.1948013,4258000
+Moshier,Herkimer,NY,Erie Boulevard Hydropower LP,Wholesale Power Marketer,Erie Boulevard Hydropower LP,8,37400.22,53.36789384,1929,43.8876991,-75.1098022,4258000
+Elmer,Lewis,NY,Erie Boulevard Hydropower LP,Wholesale Power Marketer,Erie Boulevard Hydropower LP,2,10394.3,59.32819635,1916,43.9272995,-75.2886963,4258000
+Taylorville,Lewis,NY,Erie Boulevard Hydropower LP,Wholesale Power Marketer,Erie Boulevard Hydropower LP,4,22958.78,65.52163242,1913,43.9277992,-75.3116989,4258000
+Belfort,Lewis,NY,Erie Boulevard Hydropower LP,Wholesale Power Marketer,Erie Boulevard Hydropower LP,2,10491.39,59.88236301,1903,43.9275017,-75.3320007,4258000
+High Falls,Lewis,NY,Erie Boulevard Hydropower LP,Wholesale Power Marketer,Erie Boulevard Hydropower LP,6,29031.36,55.2347032,1925,43.9248009,-75.373497,4258000
+Stillwater Reservoir Hydro,Herkimer,NY,Stillwater Associates,Private Non-utility,Stillwater Associates,1.8,5728,36.3267377,1987,43.8995018,-75.0522995,4258000
+Browns Falls,St. Lawrence,NY,Erie Boulevard Hydropower LP,Wholesale Power Marketer,Erie Boulevard Hydropower LP,16,53435.36,38.12454338,1923,44.2126999,-75.0370026,4262000
+Flat Rock,St. Lawrence,NY,Erie Boulevard Hydropower LP,Wholesale Power Marketer,Erie Boulevard Hydropower LP,5,17721,40.45890411,1924,44.2215004,-75.0737991,4262000
+Newton Falls Upper,St. Lawrence,NY,"Erie Boulevard Hydropower, LP",Wholesale Power Marketer,"Erie Boulevard Hydropower, LP",1.5,6663.33,50.71027397,1927,44.2146988,-74.9869003,4262000
+Newton Falls Lower,St. Lawrence,NY,"Erie Boulevard Hydropower, LP",Wholesale Power Marketer,"Erie Boulevard Hydropower, LP",0.68,2909.90991,48.85022008,1927,44.212101,-74.9989014,4262000
+Cranberry Lake,St. Lawrence,NY,"AMPERSAND CRANBERRY LAKE HYDRO, LLC",Wholesale Power Marketer,"AMPERSAND CRANBERRY LAKE HYDRO, LLC",0.595,2356,45.2016423,1987,44.2206001,-74.8482971,4262000
+St. Regis Falls,Franklin,NY,Azure Mountain Power Company,Private Non-utility,Azure Mountain Power Company,0.8,3000,42.80821918,1993,44.6724014,-74.5446014,4269000
+High Falls,Clinton,NY,New York State Elec & Gas Corp,Investor-Owned Utility,New York State Elec & Gas Corp,15,87619.94,66.6818417,1948,44.6273003,-73.7578964,4273500
+Cadyville,Clinton,NY,New York State Elec & Gas Corp,Investor-Owned Utility,New York State Elec & Gas Corp,5.5,28168.12,58.46434205,1921,44.6968002,-73.6278,4273500
+Mill C,Clinton,NY,New York State Elec & Gas Corp,Investor-Owned Utility,New York State Elec & Gas Corp,6,26892.12,51.16461187,1943,44.6959991,-73.6136017,4273500
+Kent Falls,Clinton,NY,New York State Elec & Gas Corp,Investor-Owned Utility,New York State Elec & Gas Corp,12.4,60398.47,55.60324606,1928,44.7018013,-73.6053009,4273500
+Lower Saranac Hydroelectric Facility,Clinton,NY,Lower Saranac Hydro Partner LP,Private Non-utility,Lower Saranac Hydro Partner LP,6.7,28575.19,48.68668643,1990,44.6693001,-73.5077972,4273500
+Wadhams,Essex,NY,"8 CHURCH LANE, LLC.",Private Non-utility,"8 CHURCH LANE, LLC.",0.56,0,0,1979,44.2303009,-73.4611969,4276500
+Carver Falls,Rutland,VT,Central Vermont Pub Serv Corp,Investor-Owned Utility,Central Vermont Pub Serv Corp,1.9,6862.35,41.23017304,1922,43.6273003,-73.3069992,4280000
+Center Rutland,Rutland,VT,Green Mountain Power Corp,Investor-Owned Utility,Green Mountain Power Corp,0.3,0,0,1898,43.6029015,-73.0127029,4282000
+Glen,Rutland,VT,Central Vermont Pub Serv Corp,Investor-Owned Utility,Central Vermont Pub Serv Corp,2,7285.24,41.58242009,1920,43.6495094,-72.9535675,4282000
+Patch,Rutland,VT,Central Vermont Pub Serv Corp,Investor-Owned Utility,Central Vermont Pub Serv Corp,0.4,0,0,1921,43.6300049,-72.9851837,4282000
+Pittsford,Rutland,VT,Central Vermont Pub Serv Corp,Investor-Owned Utility,Central Vermont Pub Serv Corp,3.6,9282.82,29.43562912,1914,43.7231216,-72.9232559,4282000
+North Branch 3,Washington,VT,Washington Electric Coop Inc,Cooperative,Washington Electric Coop Inc,1,2800.82,31.97283105,1985,44.3096008,-72.5752029,4285500
+Ladd's Mill,Washington,VT,"Worcester Hydro Company, Inc.",Private Non-utility,"Worcester Hydro Company, Inc.",0.187,735,44.8685078,1986,44.3722992,-72.5457001,4285500
+Waterbury 22,Washington,VT,Green Mountain Power Corp,Investor-Owned Utility,Green Mountain Power Corp,5.5,15470.24,32.10925695,1953,44.3821983,-72.7698975,4289000
+Essex Junction 19,Chittenden,VT,Green Mountain Power Corp,Investor-Owned Utility,Green Mountain Power Corp,8,37758.61,53.87929509,1917,44.4822006,-73.1147995,4290500
+Fairfax Falls,Franklin,VT,Central Vermont Pub Serv Corp,Investor-Owned Utility,Central Vermont Pub Serv Corp,3.5,23000.65,75.01842792,1919,44.6511993,-72.9906998,4292500
+Woodside,Lamoille,VT,Mr. & Mrs. Robert M. Woodside,Private Non-utility,Mr. & Mrs. Robert M. Woodside,0.125,0,0,1987,44.6320992,-72.6276016,4292500
+Troy Hydroelectric Project,Orleans,VT,Troy Mills Hydroelectric,Private Non-utility,Troy Mills Hydroelectric,0.85,1500,20.14504432,2013,44.9168587,-72.3964767,4293000
+Highgate Falls,Franklin,VT,Village of Swanton,Publicly Owned Utility,Village of Swanton,11.1,45937.18,47.24297585,1923,44.9339981,-73.0479965,4294000
+Sheldon Springs Hydroelectric,Franklin,VT,"Sheldon Vermont Hydro Co., Inc.",Private Non-utility,"Sheldon Vermont Hydro Co., Inc.",25.2,74107.49,33.57047275,1988,44.9109001,-72.973999,4294000
+International Falls Power,Koochichin,MN,Boise White Paper LLC,Industrial,Boise White Paper LLC,14.2,50021.65,40.21291562,1924,48.5999985,-93.4000015,5129515
+Bemidji Hydro,Beltrami,MN,Otter Tail Power Co,Investor-Owned Utility,Otter Tail Power Co,0.74,586,9.03986178,1953,47.4835739,-94.7298431,5200510
+Grand Rapids,Itasca,MN,Minnesota Power Inc,Investor-Owned Utility,Minnesota Power Inc,1.9,6797.75,40.84204518,1943,47.2317009,-93.5299988,5211000
+Brainerd,Crow Wing,MN,City of Brainerd & Pub Utilities Com.,Publicly Owned Utility,City of Brainerd & Pub Utilities Com.,2.9,15141.71,59.6036451,1917,46.3778992,-94.1830978,5242300
+Sylvan,Morrison,MN,Minnesota Power Inc,Investor-Owned Utility,Minnesota Power Inc,1.8,10335.05,65.54445713,1913,46.3050003,-94.3783035,5247500
+Pillager,Morrison,MN,Minnesota Power Inc,Investor-Owned Utility,Minnesota Power Inc,1.6,9510.53,67.85480879,1917,46.3149986,-94.4850006,5247500
+Blanchard,Morrison,MN,Minnesota Power Inc,Investor-Owned Utility,Minnesota Power Inc,18,90475.59,57.37924277,1925,45.8600006,-94.3582993,5267000
+St. Cloud,Stearns,MN,"St Cloud, City of",Publicly Owned Utility,"St Cloud, City of",8.64,42311,55.90304203,1988,45.5475998,-94.1473007,5270700
+Black Brook Dam,Polk,WI,Flambeau Hydro LLC,Private non-utility,Flambeau Hydro LLC,0.65,0,0,1982,45.2639999,-92.2639999,5341752
+River Falls,Pierce,WI,City of River Falls,Publicly Owned Utility,City of River Falls,0.2,1436.25,81.97773973,1948,44.8552208,-92.6342392,5342000
+Powell Falls,Pierce,WI,City of River Falls,Publicly Owned Utility,City of River Falls,0.125,0,0,1948,44.7999992,-92.6333008,5342000
+Byllesby,Dakota,MN,Neshkoro Power Assn,Private Non-utility,Neshkoro Power Assn,2.5,11426.76,52.1769863,1988,44.5167007,-92.9332962,5355092
+Thornapple,Rusk,WI,Northern States Power Co - Minnesota,Investor-Owned Utility,Northern States Power Co - Minnesota,1.4,8237.76,67.1702544,1927,45.4107018,-91.2166977,5360500
+Menomonie,Dunn,WI,Northern States Power Co,Investor-Owned Utility,Northern States Power Co,5.4,23315.71,49.2890876,1958,44.8838005,-91.9298019,5369000
+Cedar Falls,Dunn,WI,Northern States Power Co - Minnesota,Investor-Owned Utility,Northern States Power Co - Minnesota,6,34016.53,64.71942542,1910,44.9357986,-91.8889008,5369000
+Neshonoc,La Crosse,WI,North American Hydro Inc,Private Non-utility,North American Hydro Inc,0.425,2100,56.40612409,1995,43.9166985,-91.0667038,5383075
+Merrill,Lincoln,WI,Wisconsin Public Service Corp,Investor-Owned Utility,Wisconsin Public Service Corp,2.3,8220.29,40.79953345,1917,45.178299,-89.6866989,5395000
+Kilbourn,Columbia,WI,Wisconsin Power & Light Co,Investor-Owned Utility,Wisconsin Power & Light Co,9.7,53049.29,62.43149508,1926,43.626812,-89.7812271,5404000
+Maquoketa,Jackson,IA,North American Hydro Inc,Private Non-utility,North American Hydro Inc,1.2,5660.06,53.84379756,1924,42.0702133,-90.6979828,5418500
+Anamosa,Jones,IA,Interstate Power and Light,Private Non-utility,Interstate Power and Light,0.25,1515,69.17808219,1990,42.1032982,-91.2917023,5421740
+Dunkirk,Dane,WI,Stoughton City of,Publicly Owned Utility,Stoughton City of,2,1000,5.707762557,2002,42.8800011,-89.2099991,5430175
+Janesville,Rock,WI,Midwest Hydro LLC,Investor-Owned Utility,Midwest Hydro LLC,0.5,2030,46.34703196,1927,42.6817017,-89.021698,5430500
+Dixon,Lee,IL,STS Hydropower Ltd,Private Non-utility,STS Hydropower Ltd,3,13889.43,52.85171233,1925,41.8462982,-89.4810028,5442300
+Upper Sterling,Whiteside,IL,City of Rock Falls,Publicly Owned Utility,City of Rock Falls,2.2,6850.12,35.54441677,1988,41.75,-89.6667023,5443500
+Clarence Cannon,Ralls,MO,USCE-St Louis District,USACE,USCE-St Louis District,27,38067,16.09462202,1984,39.5244179,-91.6439438,5507800
+Wisconsin Noble,Madison,MT,Wisconsin-Noble Limited Partnership,Private Non-utility,Wisconsin-Noble Limited Partnership,0.5,1800,41.09589041,1990,45.5167007,-112.1345978,6023000
+North Willow Creek Diversion,Madison,MT,Gerald and Glenda Ohs,Private Non-utility,Gerald and Glenda Ohs,0.4,2720,77.62557078,1988,45.6413994,-111.9190979,6035000
+Madison,Madison,MT,Northwestern Coporation,Wholesale Power Marketer,Northwestern Coporation,8.8,61051.59,79.19726806,1906,45.4700012,-111.6373978,6040800
+Tiber,Liberty,MT,Tiber Montana LLC,Private Non-utility,U S Bureau of Reclamation,7.5,49854.15,75.88150685,2004,48.3199997,-111.0901031,6101500
+Cascade Creek,Park,MT,James Walker Sievers,Private Non-utility,James Walker Sievers,0.075,361.5,55.02283105,1983,45.4698982,-110.5571976,6192500
+Barney Creek,Park,MT,James Walker Sievers,Private Non-utility,James Walker Sievers,0.068,350,58.75637926,1985,45.480999,-110.5483017,6192500
+Strawberry Creek,Park,MT,South Dry Creek Partnership,Private Non-utility,South Dry Creek Partnership,0.275,1200,49.8132005,1987,45.4371986,-110.5710983,6192500
+Pine Creek,Park,MT,Allen Rae Carter,Private Non-utility,Allen Rae Carter,0.373,0,0,1988,45.5021019,-110.5379028,6192500
+Mystic Lake,Stillwater,MT,Northwestern Coporation,Wholesale Power Marketer,Northwestern Coporation,12,50622.18,48.15656393,1925,45.2252998,-109.7593002,6204070
+Yellowtail,Big Horn,MT,Reclamation Great Plains Region (GP),Reclamation,Reclamation Great Plains Region (GP),268.8,693236.41,29.44069066,1966,45.3074074,-107.9575119,6287000
+Spearfish Intake Dam (Savoy),Lawrence,SD,Homestake Mining Company,Industrial,Homestake Mining Company,2,0,0,0,44.3429985,-103.9213028,6431500
+Hillcrest Pump Station,Denver,CO,Denver City & County of,Publicly Owned Utility,Denver City & County of,2,4828.97,27.56261416,1993,39.6411018,-104.9134979,6713500
+Cabin Creek,Clear Creek,CO,Public Service Co of Colorado,Investor-Owned Utility,Public Service Co of Colorado,0,0,0,0,39.6500015,-105.7189026,6714500
+Shoshone,Garfield,CO,Public Service Co of Colorado,Investor-Owned Utility,Public Service Co of Colorado,14.4,71327,56.54410832,1909,39.7592163,-105.6605453,6716100
+Kohler Powerhouse,Boulder,CO,City of Boulder,Publicly Owned Utility,City of Boulder,0.15,770,58.59969559,1986,40.0332985,-105.3167038,6727500
+Orodell Powerhouse,Boulder,CO,City of Boulder,Publicly Owned Utility,City of Boulder,0.225,1160,58.85337392,1987,40.1666985,-105.1500015,6730525
+Flatiron,Larimer,CO,Reclamation Great Plains Region (GP),Reclamation,Reclamation Great Plains Region (GP),86,187877.83,24.93865217,1954,40.3649979,-105.2360306,6741510
+Big Thompson,Larimer,CO,Reclamation Great Plains Region (GP),Reclamation,Reclamation Great Plains Region (GP),4.5,6869,17.42516489,1959,40.421032,-105.2238007,6741510
+Loveland,Larimer,CO,City of Loveland,Publicly Owned Utility,City of Loveland,0.9,0,0,1983,40.4286995,-105.3118973,6741510
+Columbus,Platte,NE,Loup River Public Power Dist,Publicly Owned Utility,Loup River Public Power Dist,45.6,124393.82,31.1408065,1936,41.4832993,-97.3666992,6796000
+Niangua,Camden,MO,Sho-Me Power Electric Coop,Cooperative,Sho-Me Power Electric Coop,3,3319.06,12.62960426,1930,37.9383011,-92.8516998,6923950
+Osage,Miller,MO,Union Electric Co,Investor-Owned Utility,Union Electric Co,208,548936.71,30.12692692,1931,38.2030983,-92.6248016,6926000
+Taum Sauk,Reynolds,MO,Ameren Missouri,Investor-Owned Utility,Ameren Missouri,0,0,0,0,37.5332985,-90.8167038,7061290
+Sugarloaf Hydro Plant,Lake,CO,STS Hydropower Ltd,Private Non-utility,U S Bureau of Reclamation,2.5,4931.76,22.51945205,1985,39.2527008,-106.3748016,7083710
+Ruxton Park,"El Paso, Teller",CO,Colorado Springs City of,Publicly Owned Utility,Colorado Springs City of,1,734.82,8.388356164,1925,38.8333015,-104.9666977,7103700
+Manitou Springs,"El Paso, Teller",CO,Colorado Springs City of,Publicly Owned Utility,Colorado Springs City of,5.6,15668.35,31.93972195,1927,38.8333015,-104.9666977,7103700
+Tesla,El Paso,CO,Colorado Springs City of,Publicly Owned Utility,Colorado Springs City of,26.6,64528.12,27.69257047,1997,38.9791985,-104.9586029,7103800
+Salina,Mayes,OK,Grand River Dam Authority,State,Grand River Dam Authority,0,0,0,0,36.2661018,-95.1055984,7191500
+Tenkiller Ferry,Sequoyah,OK,USCE-Tulsa District,USACE,USCE-Tulsa District,39,102435.18,29.98336846,1953,35.5969582,-95.0494232,7198000
+Murray,Pulaski,AR,City of North Little Rock,Publicly Owned Utility,CESWL,45.4,104680.38,26.32117856,1988,34.7943001,-92.3578033,7263450
+Lewisville,Denton,TX,City of Garland,Publicly Owned Utility,CESWF,2.8,4161.06,16.96453033,1992,33.0681992,-96.9639969,8053000
+Canyon,Comal,TX,Guadalupe Blanco River Auth,State,CESWF,6,9689.28,18.4347032,1989,29.8701,-98.1948013,8167800
+H 4,Gonzales,TX,Guadalupe Blanco River Auth,State,Guadalupe Blanco River Auth,2.4,7560.03,35.9590468,1931,29.4958744,-97.624588,8169845
+Gonzales Hydro Plant,Gonzales,TX,City of Gonzales,Publicly Owned Utility,City of Gonzales,0.9,1915.983667,14.58130645,1984,29.4967995,-97.4549026,8173900
+Elephant Butte,Sierra,NM,Reclamation Upper Colorado Region (UC),Reclamation,Reclamation Upper Colorado Region (UC),27.9,41525.24,16.99040932,1940,33.1533585,-107.1919708,8361000
+Williams Fork Hydro Plant,Grand,CO,Denver City & County of,Publicly Owned Utility,Denver City & County of,3.5,7195.21,23.46774299,1959,40.0353012,-106.2050018,9038500
+Dillon Hydro Plant,Summit,CO,Denver City & County of,Publicly Owned Utility,Denver City & County of,1.8,7948.56,50.40943683,1987,39.6207008,-106.0662003,9050700
+Green Mountain,Summit,CO,Reclamation Great Plains Region (GP),Reclamation,Reclamation Great Plains Region (GP),26,49020.82,21.52301545,1943,39.8788071,-106.3327255,9057500
+Woods Lake,Eagle,CO,Woods Lake Hydro,Private Non-utility,Woods Lake Hydro,0.045,262.8,66.66666667,1937,39.4339981,-106.6135025,9079450
+Ruedi,Eagle,CO,City of Aspen,Publicly Owned Utility,U S Bureau of Reclamation,5,15211.18,34.72872146,1985,39.3623009,-106.8212967,9080400
+Zilm Powerhouse,Garfield,CO,Charlotte B. and William M. Zilm,Private Non-utility,Charlotte B. and William M. Zilm,0.02,0,0,0,39.4229012,-107.3041992,9085000
+Grand Valley,Mesa,CO,Grand Valley Water Users Association,Publicly Owned Utility, ,3,19350.6,73.63242009,1938,39.1013908,-108.345726,9106150
+Crystal,Montrose,CO,Reclamation Upper Colorado Region (UC),Reclamation,Reclamation Upper Colorado Region (UC),28,141485.76,57.68336595,1978,38.5105743,-107.6253357,9128000
+Ouray,Ouray,CO,Colorado-Ute Electric Assn Inc,Cooperative,Colorado-Ute Electric Assn Inc,0.75,4303.4,65.50076104,0,38.0084,-107.6644974,9146020
+Fontenelle,Lincoln,WY,Reclamation Upper Colorado Region (UC),Reclamation,Reclamation Upper Colorado Region (UC),10,50392.18,57.52531963,1968,42.0270119,-110.0639725,9211200
+Stagecoach,Routt,CO,Upper Yampa Water Conservancy District,Publicly Owned Utility,Upper Yampa Water Conservancy District,0.8,4260,60.78767123,1989,40.285099,-106.8305969,9237500
+Vallecito,La Plata,CO,"Ptarmigan Resources & Energy, Inc.",Private Non-utility,U S Bureau of Reclamation,5.8,16074.58,31.63789167,1989,37.3717995,-107.5793991,9353800
+Mayflower Mill Hydro Project,San Juan,CO,San Juan County Historical Society,Publicly Owned Utility, ,0.011,80,83.02200083,2014,37.8282967,-107.6281509,9358000
+Glen Canyon,Coconino,AZ,Reclamation Upper Colorado Region (UC),Reclamation,Reclamation Upper Colorado Region (UC),1312,3775903.65,32.85359981,1964,36.936615,-111.4838715,9380000
+Gunlock Hydro,Washington,UT,City of St George,Publicly Owned Utility,City of St George,0.372,0,0,1987,37.2500191,-113.7783813,9410100
+Sand Cove,Washington,UT,PacifiCorp,Investor-Owned Utility,PacifiCorp,0.8,318,4.537671233,1920,37.2808495,-113.7279205,9410100
+Gunlock,Washington,UT,PacifiCorp,Investor-Owned Utility,PacifiCorp,0.75,372,5.662100457,1920,37.2858086,-113.758606,9410100
+Horizon Ridge,Clarke,NV,Southern Nevada Water Authority,Cooperative,Southern Nevada Water Authority,0.671,3515,59.79965838,2005,36.0030327,-115.0909653,9419749
+Davis,Mohave,AZ,Reclamation Lower Colorado Region (LC),Reclamation,Reclamation Lower Colorado Region (LC),254.8,1126405.47,50.46510962,1951,35.1970444,-114.5706711,9423000
+Parker,San Bernardino,CA,Reclamation Lower Colorado Region (LC),Reclamation,Reclamation Lower Colorado Region (LC),120,444049.29,42.24213185,1942,34.2953339,-114.1402206,9427520
+Crosscut,Maricopa,AZ,Salt River Valley Water User's Association,Publicly Owned Utility, ,3,2821.753333,10.73726535,1939,33.4391861,-111.9458847,9512165
+Siphon Drop,IMPERIAL,CA,Yuma County Water User's Association,Cooperative, ,4.4,15429.78,40.03160025,1987,32.7789841,-114.6344376,9521100
+Hydro II,Cache,UT,City of Logan,Publicly Owned Utility,City of Logan,6.6,19567.74,33.84485264,1986,41.7443008,-111.7521973,10108400
+Hydro III,Cache,UT,City of Logan,Publicly Owned Utility,City of Logan,1.4,4681.43,38.17212981,1925,41.7531013,-111.7232971,10108400
+DeWitt Pipeline Hydroelectric Project,Cache,UT,"Logan City, Utah",Publicly Owned Utility, ,0.2,930,53.08219178,0,41.7449799,-111.7875519,10109001
+Hyrum,Cache,UT,Hyrum City Corporation,Publicly Owned Utility,Hyrum City Corporation,0.5,0,0,1931,41.6272011,-111.6781006,10113500
+Echo Dam,Summit,UT,City of Bountiful,Publicly Owned Utility,U S Bureau of Reclamation,4.4,8251.59,21.40823474,1987,40.9645996,-111.433403,10132000
+Gateway,Morgan,UT,Weber Basin Water Conservancy District,Publicly Owned Utility,U S Bureau of Reclamation,4,10724.71,30.60704909,1958,41.1366043,-111.8311081,10136500
+Weber,Morgan,UT,PacifiCorp,Investor-Owned Utility,PacifiCorp,3.8,13169.88,39.56344629,1911,41.1375847,-111.8856812,10137000
+Causey,Weber,UT,Weber Basin Water Conservancy District,Publicly Owned Utility,U S Bureau of Reclamation,2.1,4011.53,21.80653403,1998,41.2992592,-111.5875168,10137500
+Pine View Dam,Weber,UT,Weber-Box Elder Conservacy District,Publicly Owned Utility,U S Bureau of Reclamation,1.8,5143.47,32.61967275,1991,41.2545013,-111.8448029,10140100
+Pioneer,Weber,UT,PacifiCorp,Investor-Owned Utility,U S Bureau of Reclamation,5,16067.35,36.68344749,1910,41.2346268,-111.9246597,10140700
+Nephi,Juab,UT,Nephi City Corp,Publicly Owned Utility,Nephi City Corp,0.5,0,0,1986,39.7178993,-111.7306976,10145400
+Nephi Culinary System,Juab,UT,Nephi City Corp,Publicly Owned Utility,Nephi City Corp,0.2,0,0,1986,39.7146988,-111.7873993,10146000
+Bartholomew,Utah,UT,City of Springville,Publicly Owned Utility,City of Springville,1,2213.53,25.26860731,1988,40.1659012,-111.4973984,10153100
+Hobble Creek,Utah,UT,City of Springville,Publicly Owned Utility,City of Springville,0.3,313,11.91019787,1948,40.1659012,-111.4973984,10153100
+Upper Bartholomew,Utah,UT,City of Springville,Publicly Owned Utility,City of Springville,0.2,52.001,2.968093607,1948,40.1659012,-111.4973984,10153100
+Jordanelle,Wasatch,UT,Central Utah Water Conservancy District,Publicly Owned Utility,U S Bureau of Reclamation,13,48916.89,42.95476818,2008,40.5966034,-111.4235916,10155200
+Little Cottonwood,Salt Lake,UT,City of Murray,Publicly Owned Utility,City of Murray,4.8,9053.71,21.53184456,1983,40.5830002,-111.8013,10168000
+Upper Beaver,Beaver,UT,Beaver City Corporation,Publicly Owned Utility,Beaver City Corporation,2.5,8767.29,40.03328767,1907,38.2858009,-112.4432983,10234500
+Beaver City Lower,Beaver,UT,Beaver City Corporation,Publicly Owned Utility,Beaver City Corporation,0.275,0,0,1914,38.2611008,-112.5205002,10234500
+Beaver Mid Hydro 2,Beaver,UT,Beaver City Corporation,Publicly Owned Utility,Beaver City Corporation,0.625,0,0,1942,38.2696991,-112.4804993,10234500
+New Lahontan,Churchill,NV,Truckee-Carson Irrigation District,Publicly Owned Utility,U S Bureau of Reclamation,4,10682.69,30.487129,1989,39.4628983,-119.0658035,10312275
+Lahontan,CHURCHILL,NV,Truckee-Carson Irrigation District,Publicly Owned Utility,U S Bureau of Reclamation,1.8,2706.47,17.16432014,1911,39.4628983,-119.0658035,10312275
+Humboldt River Hydropower Project,PershingÃ?Â ,NV,Pershing County Water Conservation Dist,Publicly Owned Utility,U S Bureau of Reclamation,0.75,2900,44.14003044,2014,40.4696999,-118.3078003,10335000
+Stampede,Sierra,CA,Reclamation Mid Pacific Region (MP),Reclamation,Reclamation Mid Pacific Region (MP),3.6,10420,33.04160325,1988,39.4704475,-120.1045532,10344500
+Fleish,Washoe,NV,Truckee Meadows Water Authority,Publicly Owned Utility,Truckee Meadows Water Authority,2,13512.64,77.12694064,1914,39.4810181,-119.9927292,10347310
+Verdi,WASHOE,NV,Truckee Meadows Water Authority,Publicly Owned Utility,Truckee Meadows Water Authority,2.4,13828.79,65.77620814,1911,39.52388,-119.980545,10347460
+Washoe,Washoe,NV,Truckee Meadows Water Authority,Publicly Owned Utility,Truckee Meadows Water Authority,2.6,10098.99,44.34048999,1904,39.506218,-119.9345474,10347460
+Friant Fishwater Release Powerhouse,Fresno and Madera,CA,FRIANT POWER AUTHORITY         (CA),Publicly Owned Utility,FRIANT POWER AUTHORITY         (CA),0.51,0,0,1991,36.9996986,-119.7061996,11251000
+R C Kirkwood,Tuolumne,CA,San Francisco City & County of,Publicly Owned Utility,San Francisco City & County of,115.5,495422.41,48.96542826,1967,37.9479141,-119.7879333,11276500
+Dion R Holm,Tuolumne,CA,San Francisco City & County of,Publicly Owned Utility,San Francisco City & County of,156.8,637971.65,46.4463099,1960,37.9757156,-119.9118805,11277300
+La Grange,Stanislaus,CA,Turlock Irrigation District,Publicly Owned Utility,Turlock Irrigation District,4.5,15434.18,39.15317098,1924,37.6722488,-120.4443283,11289650
+Drop No. 9,Stanislaus,CA,Turlock Irrigation District,Publicly Owned Utility,Turlock Irrigation District,1,3786.65,43.22659817,1979,37.6259995,-120.7501984,11290000
+Yellowjacket,Sonoma,CA,Yellow Jacket Ranch,Private Non-utility,Yellow Jacket Ranch,0.1,312,35.61643836,1987,38.6534996,-122.6362991,11463980
+Warm Springs,Sonoma,CA,Sonoma County Water Agency,Publicly Owned Utility,CESPN,2.7,11647.35,49.24467275,1988,38.7182007,-123.0086975,11465200
+Baker Creek Diversion,Humboldt,CA,"Baker Station Associates, LP",Private Non-utility,"Baker Station Associates, LP",1.5,3022.2,23,2014,40.5263901,-123.7255554,11478500
+East Side,Klamath,OR,PacifiCorp,Investor-Owned Utility,U S Bureau of Reclamation,3.2,5056.82,18.03945491,1924,42.2344017,-121.8003998,11507500
+Lower Cold Springs Powerhouse,AlamedaÃ?Â ,CA,J. N. and H.E. Foster and R.Z. Walker,Private Non-utility,J. N. and H.E. Foster and R.Z. Walker,0.09,0,0,1984,41.9297981,-122.3525009,11516530
+Luckey Hydro Powerhouse,SiskiyouÃ?Â ,CA,Howard P. Luckey,Private Non-utility,Howard P. Luckey,0.05,294,67.12328767,0,41.9333,-122.353302,11516530
+Upper Cold Springs Powerhouse,SiskiyouÃ?Â ,CA,J. N. and H.E. Foster and R.Z. Walker,Private Non-utility,J. N. and H.E. Foster and R.Z. Walker,0.066,462,79.9086758,0,41.9297981,-122.3524017,11516530
+Lewiston,Trinity,CA,Trinity Power Authority,Reclamation,Reclamation Mid Pacific Region (MP),0.35,2368,77.23418134,1964,40.7258644,-122.7937164,11525500
+Big Creek Water Works,Trinity,CA,Big Creek Water Works Ltd,Private Non-utility,Big Creek Water Works Ltd,5,2833.5,6.469178082,1987,40.6487007,-123.5206985,11528700
+Philipsburg Lower,Granite,MT,Town of Phillipsburg,Publicly Owned Utility,Town of Phillipsburg,0.1,0,0,1982,46.3335991,-113.2555008,12329500
+Cabinet Gorge,Bonner,ID,Avista Corp,Investor-Owned Utility,Avista Corp,265.2,1086055.29,46.74921357,1952,48.0867004,-116.0633011,12391950
+Monroe Street,Spokane,WA,Avista Corp,Investor-Owned Utility,Avista Corp,14.8,100535.41,77.54489849,1992,47.6615982,-117.4235992,12422500
+Upper Falls,Spokane,WA,Avista Corp,Investor-Owned Utility,Avista Corp,10,65556.24,74.83589041,1922,47.6610985,-117.4207993,12422500
+Upriver Dam Hydro Plant,Spokane,WA,Spokane City of,Publicly Owned Utility,Spokane City of,17.6,49480.59,32.09357488,1936,47.6869011,-117.3450012,12422500
+Nine Mile,Spokane,WA,Avista Corp,Investor-Owned Utility,Avista Corp,37.6,104692.47,31.78509363,1908,47.7751007,-117.5430984,12426000
+Charles L. Woodman,Teton,WY,Kinky Creek Operating Company,Private Non-utility,Kinky Creek Operating Company,0.012,0,0,1984,43.4082985,-110.1486969,13014300
+Island Park,Fremont,ID,Fall River Rural Electricity,Cooperative,U S Bureau of Reclamation,4.8,11762.76,27.97460046,1994,44.4189987,-111.3960037,13042500
+Falls River Hydro,Fremont,ID,Marysville Hydro Partners,Private Non-utility,Marysville Hydro Partners,9,48455.18,61.46014713,1993,44.0667,-111.2166977,13047500
+City Power Plant,Bonneville,ID,Idaho Falls City of,Publicly Owned Utility,Idaho Falls City of,8,47074.59,67.17264555,1982,43.4916,-112.0444031,13060000
+Gem State,Bonneville,ID,Idaho Falls City of,Publicly Owned Utility,Idaho Falls City of,23.4,115514.65,56.35300804,1988,43.4219017,-112.1019974,13060000
+Portneuf Diversion,Bannock,ID,"Commercial Energy Management, Inc.",Private Non-utility,"Commercial Energy Management, Inc.",0.9,3900,49.46727549,1993,42.6236992,-111.9949036,13073000
+Twin Falls,Twin Falls,ID,Idaho Power Co,Investor-Owned Utility,Idaho Power Co,52.7,119633.24,25.91416045,1935,42.589901,-114.3538971,13090500
+Shoshone Falls,Jerome,ID,Idaho Power Co,Investor-Owned Utility,Idaho Power Co,11.5,77333.24,76.76517769,1921,42.5999985,-114.4000015,13090500
+Lower Low Line,Twin Falls,ID,"Lowline Rapids, LLC",Private Non-utility,"Lowline Rapids, LLC",2.8,9264.03,37.76920254,1990,42.4818001,-114.3676987,13092747
+Lateral No. 10,Twin Falls,ID,Lateral 10 Ventures,Private Non-utility,Lateral 10 Ventures,2.4,13893.67,66.08480784,1984,42.5667,-114.9167023,13108150
+Amy Ranch-Black Creek,Butte,ID,New Energy Inc,Private Non-utility,New Energy Inc,0.65,0,0,1986,44.1818008,-113.2703018,13118700
+Magic Dam Hydroelectric Project,Blaine,ID,Magic Reservoir Hydroelec Inc,Private Non-utility,Magic Reservoir Hydroelec Inc,9,12451.3,15.79312532,1989,43.2546997,-114.3569031,13142500
+Koyle Ranch Hydroelectric Project,Gooding,ID,Koyle Hydro Inc,Private Non-utility,Koyle Hydro Inc,1.3,3017.29,26.49534598,1983,42.9500008,-114.8000031,13152500
+Black Canyon 3,Gooding,ID,"Consolidated Hydro Mountain States, Inc.",Private Non-utility,"Consolidated Hydro Mountain States, Inc.",0.112,0,0,1984,43.0344009,-114.7242966,13152500
+Twin Reservoirs,Walla Walla,WA,Walla Walla City of,Publicly Owned Utility,Walla Walla City of,2.2,12218.71,63.40135949,1988,45.9903984,-118.0474014,14013000
+Opal Springs Hydro,Jefferson,OR,Deschutes Valley Water District,Publicly Owned Utility,Desehutes Valley Water District,4.3,26533.88,70.4414357,1985,44.4900436,-121.2989578,14087400
+Pelton,Jefferson,OR,Portland General Electric Co,Investor-Owned Utility,Portland General Electric Co,109.8,414690,43.11388078,1957,44.6944008,-121.2303009,14092500
+Reregulating,Jefferson,OR,Warm Springs Power Enterprises,Investor-Owned Utility,Warm Springs Power Enterprises,19.6,80531.94,46.90379508,1982,44.7247009,-121.2457962,14092500
+Hills Creek,Lane,OR,USCE-North Pacific Division,USACE,USCE-North Pacific Division,30,134539.24,51.19453577,1962,43.7083397,-122.4236603,14145500
+Dexter,Lane,OR,USCE-North Pacific Division,USACE,USCE-North Pacific Division,15,69516.59,52.9045586,1955,43.9236069,-122.8055725,14150000
+Lookout Point,Lane,OR,USCE-North Pacific Division,USACE,USCE-North Pacific Division,120,293474.82,27.91807648,1955,43.9149132,-122.7515488,14150000
+Dorena Lake Dam Project,Lane,OR,"Dorena Hydro, LLC.",Private Non-utility,CENWP,7.5,8836.4,13.44961948,2014,43.7868195,-122.9562302,14155500
+Carmen Smith,Linn,OR,Eugene Water & Electric Board,Publicly Owned Utility,Eugene Water & Electric Board,114.3,234809.1,23.45117391,1963,44.0050011,-122.111702,14159200
+Walterville,Lane,OR,Eugene Water & Electric Board,Publicly Owned Utility,Eugene Water & Electric Board,8,51953.11,74.134004,1949,44.0699997,-122.8349991,14164900
+Water Street,Marion,OR,Santiam Water Control District,Publicly Owned Utility,Santiam Water Control District,0.185,0,0,1985,44.7953987,-122.7927017,14184100
+Oak Grove,Clackamas,OR,Portland General Electric Co,Investor-Owned Utility,Portland General Electric Co,51,220472.12,49.34911809,1924,45.0749016,-121.9684982,14209250
+Canyon Creek,Clackamas,OR,Douglas Water Power Company,Private Non-utility,Douglas Water Power Company,0.075,500,76.10350076,1985,45.0872192,-121.9962387,14209250
+Faraday,Clackamas,OR,Portland General Electric Co,Investor-Owned Utility,Portland General Electric Co,19.2,155773.29,48.5856258,1907,45.2672005,-122.3199997,14210000
+River Mill,Clackamas,OR,Portland General Electric Co,Investor-Owned Utility,Portland General Electric Co,18.8,101410.35,61.57725517,1911,45.2980995,-122.3469009,14210000
+Vernon Station Hydroelectric Project,Multnomah,OR,Portland Water Bureau,Publicly Owned Utility, ,0.025,205.86,94,2012,45.5550613,-122.6460648,14211820
+Merwin,Clark,WA,PacifiCorp,Investor-Owned Utility,PacifiCorp,136,510540.12,42.8535556,1931,45.9550018,-122.5569992,14220500
+Biggs Creek Diversion,Clark,WA,Fredrick Earl Pickering,Private Non-utility,Fredrick Earl Pickering,0.015,50,38.05175038,1987,45.8428993,-122.4499969,14222500
+Packwood,Lewis,WA,Energy Northwest,State,Energy Northwest,27.5,96062.65,39.87656704,1964,46.5971985,-121.5582962,14226500
+Blue Lake,Sitka Division,AK,Sitka City & Borough of,Publicly Owned Utility,Sitka City & Borough of,15.9,50141.41,35.9994041,2014,57.0633011,-135.1916962,15087810
+Blue Lake Pulp Mill,Sitka Division,AK,Sitka City & Borough of,Publicly Owned Utility,Sitka City & Borough of,0.87,0,0,2014,57.0633011,-135.1916962,15087810
+Blue Lake Fish Valve,Sitka Division,AK,Sitka City & Borough of,Publicly Owned Utility,Sitka City & Borough of,0.67,0,0,2014,57.0633011,-135.1916962,15087810
+Cooper Lake,Seward Division,AK,Chugach Electric Assn Inc,Cooperative,Chugach Electric Assn Inc,19.4,41075.29,24.16989714,1961,60.4682999,-149.8267059,15261000
+Eklutna  Energy Recovery Sta, ,AK,Municipality of Anchorage,Publicly Owned Utility,Municipality of Anchorage,0.75,0,0,1988,61.2193985,-149.7292023,15275100
+Chuniisax Creek, ,AK,City of Atka,Publicly Owned Utility,City of Atka,0.284,0,0,0,61.5999985,-148.9600067,15281000
+Terror Lake,Kodiak Division,AK,Kodiak Electric Assn Inc,Cooperative,Kodiak Electric Assn Inc,33.6,114877.76,39.02946293,1984,57.6666985,-153.1000061,15295700
+Waiahi Hydro (Upper),Kauai,HI,KIUC,Private Non-utility,KIUC,0.5,1770.000769,40.41097646,1941,22.0219631,-159.4644318,16060000
+Waiahi Hydro (Lower),Kauai,HI,KIUC,Private Non-utility,KIUC,0.8,2832.001231,40.41097647,1930,22.0185127,-159.4441376,16060000
+Wailuku,Hawaii,HI,Wailuku Holding Company LLC,Private Non-utility,Wailuku Holding Company LLC,10.4,26477.71,29.06316956,1993,19.7129898,-155.1485748,16704000
+Neal Shoals,"Chester, Union",SC,South Carolina Electric&Gas Co,Investor-Owned Utility,South Carolina Electric&Gas Co,4.4,18213.12,47.25280199,1905,34.6652985,-81.4477005,21564493
+Lockhart,Union,SC,Lockhart Power Co,Investor-Owned Utility,Lockhart Power Co,18,62859.53,39.86525241,1921,34.7785988,-81.4561005,21564493
+Boyds Mill Hydro,Greenville,SC,Northbrook Carolina Hydro LLC,Private Non-utility,Northbrook Carolina Hydro LLC,1.4,2959.84,24.13437704,1996,34.455368,-82.19944,21650905
+Rio Blanco,Naguabo,PR,Puerto Rico Electric Power Authority,State,Puerto Rico Electric Power Authority,5,17000,38.81278539,1930,18.2581005,-65.7791977,50075500
+Corbett,Multnomah,OR,Corbett Water District,Political subdivision, ,0.01,0,0,2014,46.2513885,-124.3886108,
