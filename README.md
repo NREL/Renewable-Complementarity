@@ -9,10 +9,17 @@ The data are intended to accompany two publications on the topic of temporal com
 
 1) Harrison-Atlas, Dylan, Caitlin Murphy, Anna Schleifer, and Nicholas Grue. "Temporal complementarity and value of wind-PV hybrid systems across the United States." *Renewable Energy* 201 (2022): 111-123, [doi:10.1016/j.renene.2022.10.060](https://doi.org/10.1016/j.renene.2022.10.060); 
 
-2) Murphy, Caitlin, Harrison-Atlas, Dylan, Nicholas Grue, Vahan Gevorgian, Juan Gallego-Calderon, Shiloh Elliot and Thomas Mosier. “A Resource Assessment for FlexPower”. NREL Technical Report.
+2) Murphy, Caitlin, Harrison-Atlas, Dylan, Grue, Nicholas, Gevorgian, Vahan, Gallego-Calderon, Juan, Elliot, Shiloh and Mosier,Thomas. “A Resource Assessment for FlexPower”. NREL Technical Report.
 
 ## Accessing the data
-Due to their large file sizes, datasets for *wind-pv* complementarity are managed using Git Large File Storage (LFS). Unless explicitly requested, Git will only initially download references to these files using text pointers when the repository is cloned. After installing Git LFS, users can download the actual CSV files using a “git lfs fetch” command. Git LFS can be downloaded (https://git-lfs.github.com/) or installed via a virtual environment (e.g., https://anaconda.org/conda-forge/git-lfs).
+Due to their large file sizes, datasets for *wind-pv* and *hydro* complementarity are managed using Git Large File Storage (LFS). Unless explicitly requested, Git will only initially download references to these files using text pointers when the repository is cloned. After installing Git LFS, users can download the actual CSV files using a “git lfs fetch” command. Git LFS can be downloaded (https://git-lfs.github.com/) or installed via a virtual environment (e.g., https://anaconda.org/conda-forge/git-lfs).
 
 ## Visualizing the data
+
+### Wind-PV complementarity
+
 A Jupyter Notebook ([wind_pv_data_exploration.ipynb](wind_pv_data_exploration.ipynb)) is provided to show how to read in and visualize the complementarity datasets for *wind-pv* hybrids using Python. There is a separate dataset for each metric specific to either hourly or daily time scales. Each record in the datasets represents an individual location within the contiguous United States. As shown in the notebook, locations are mapped using longitude and latitude coordinates. Multi-year mean values for each of the metrics are reported as are the monthly means taken across the 2007-2013 period of analysis.
+
+### Hydro-PV/Wind complementarity
+
+The notebooks for hydropower-based complementarity provide the process used to compute the stability and pearson coefficient as complementarity metrics. In total, there are four notebooks that detail the process for different combination oof resource pairs and two temporal scales: daily (aggregated into annual complementarity) and monthly complementarity. More details of the hydropower-based complementarity analysis, including the file description, folder structure, and general considerations, are provided here.
