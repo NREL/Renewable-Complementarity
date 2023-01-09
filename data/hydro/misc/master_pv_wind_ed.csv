@@ -1,184 +1,184 @@
 lat,lon,dam_name,site_id,post_csv_filename,pv_id,wind_id
-45.1580505,-67.4016571,Lower Saint Croix River,1021000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1021000_2010_synthetic.csv,1681,1681
-44.7865982,-71.12490079999998,Stearns Brook-Androscoggin River,1053500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1053500_2013_synthetic.csv,1178,1178
-44.4569473,-71.1860657,Stearns Brook-Androscoggin River,1054000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1054000_2013_synthetic.csv,726,726
-44.6330986,-71.2483978,Stearns Brook-Androscoggin River,1054000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1054000_2013_synthetic.csv,726,726
-44.49000170000001,-71.2201385,Stearns Brook-Androscoggin River,1054000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1054000_2013_synthetic.csv,726,726
-44.5425987,-70.5465012,Swift River-Androscoggin River,1054500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1054500_2014_synthetic.csv,780,780
-44.4752007,-70.6296997,Swift River-Androscoggin River,1054500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1054500_2014_synthetic.csv,780,780
-43.5345001,-71.4681015,Winnipesaukee River,1081000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1081000_2014_synthetic.csv,1864,1864
-42.8596001,-71.96140290000002,Upper Contoocook River,1082000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1082000_2017_synthetic.csv,1772,1772
-42.8170013,-72.0086975,Upper Contoocook River,1082000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1082000_2017_synthetic.csv,1772,1772
-43.0185013,-71.5979004,Piscataquog River,1091500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1091500_2019_synthetic.csv,1180,1180
-42.7496986,-71.83670040000001,Souhegan River,1094000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1094000_2019_synthetic.csv,1982,1982
-42.7669983,-71.8125,Souhegan River,1094000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1094000_2019_synthetic.csv,1982,1982
-42.76879879999999,-71.8108978,Souhegan River,1094000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1094000_2019_synthetic.csv,1982,1982
-42.6651993,-71.57577509999999,Nissitissit River-Nashua River,1096500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1096500_2014_synthetic.csv,1562,1562
-42.6481018,-71.3087006,Stony Brook-Merrimack River,1100000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1100000_2014_synthetic.csv,1720,1720
-42.6418991,-71.3160019,Stony Brook-Merrimack River,1100000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1100000_2014_synthetic.csv,1720,1720
-42.6441994,-71.30760190000002,Stony Brook-Merrimack River,1100000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1100000_2014_synthetic.csv,1720,1720
-41.9171982,-70.6269989,North River-Frontal Massachusetts Bay,1105876,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1105876_2015_synthetic.csv,1863,1863
-41.9011002,-71.389801,Lower Blackstone River,1113895,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1113895_2013_synthetic.csv,1725,1725
-42.0633011,-71.88069920000002,French River,1125100,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1125100_2013_synthetic.csv,1832,1832
-44.3745995,-72.0263977,Passumpsic River,1135500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1135500_2014_synthetic.csv,1973,1973
-43.6050987,-72.35970309999998,Ottauquechee River,1151500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1151500_2017_synthetic.csv,256,256
-43.3855019,-72.0820007,Sugar River,1152010,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1152010_2018_synthetic.csv,1840,1840
-43.3744011,-72.3468018,Sugar River,1152500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1152500_2010_synthetic.csv,1355,1355
-43.3744011,-72.34940340000001,Sugar River,1152500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1152500_2010_synthetic.csv,1355,1355
-42.6791,-72.0477982,Upper Millers River,1162000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1162000_2014_synthetic.csv,1992,1992
-42.58940120000001,-72.3100967,Lower Millers River,1166500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1166500_2010_synthetic.csv,1844,1844
-42.5960999,-72.2192001,Lower Millers River,1166500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1166500_2010_synthetic.csv,1844,1844
-42.5965004,-72.2205963,Lower Millers River,1166500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1166500_2010_synthetic.csv,1844,1844
-42.591301,-72.73069759999998,Lower Deerfield River,1170000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1170000_2010_synthetic.csv,766,766
-42.2136078,-72.6023331,Batchelor Brook-Connecticut River,1172010,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1172010_2010_synthetic.csv,534,534
-42.1948509,-72.61379240000002,Batchelor Brook-Connecticut River,1172010,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1172010_2010_synthetic.csv,534,534
-42.1955986,-72.612999,Batchelor Brook-Connecticut River,1172010,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1172010_2010_synthetic.csv,534,534
-42.1948967,-72.60435490000002,Batchelor Brook-Connecticut River,1172010,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1172010_2010_synthetic.csv,534,534
-42.1568985,-72.422699,Chicopee River,1177000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1177000_2010_synthetic.csv,1347,1347
-42.17739870000001,-72.4092026,Chicopee River,1177000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1177000_2010_synthetic.csv,1347,1347
-42.1562996,-72.4848022,Chicopee River,1177000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1177000_2010_synthetic.csv,1347,1347
-43.3049011,-73.64299770000002,Snook Kill-Hudson River,1327750,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1327750_2013_synthetic.csv,816,816
-43.3049011,-73.64299770000002,Snook Kill-Hudson River,1327750,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1327750_2013_synthetic.csv,816,816
-43.2346001,-73.7574005,Snook Kill-Hudson River,1327750,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1327750_2013_synthetic.csv,816,816
-43.290699,-73.66619870000002,Snook Kill-Hudson River,1327750,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1327750_2013_synthetic.csv,816,816
-43.24670029999999,-73.828598,Snook Kill-Hudson River,1327750,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1327750_2013_synthetic.csv,816,816
-43.29690170000001,-73.592598,Snook Kill-Hudson River,1327750,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1327750_2013_synthetic.csv,816,816
-43.18519970000001,-75.0178986,Lower West Canada Creek,1346000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1346000_2014_synthetic.csv,1271,1271
-43.0372009,-74.8647003,Nowadaga Creek-Mohawk River,1347000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1347000_2014_synthetic.csv,1201,1201
-43.0622368,-74.7656479,East Canada Creek,1348000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1348000_2010_synthetic.csv,1218,1218
-42.4450989,-74.4384003,West Kill-Schoharie Creek,1350180,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1350180_2013_synthetic.csv,1037,1037
-41.8297005,-74.1330032,Lower Rondout Creek,1367500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1367500_2013_synthetic.csv,1147,1147
-41.6052017,-74.1865005,Lower Wallkill River,1371500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1371500_2013_synthetic.csv,1815,1815
-40.5393982,-78.03510279999998,Juniata River,1559000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1559000_2010_synthetic.csv,1399,1399
-38.4816399,-78.6273193,Hawksbill Creek-South Fork Shenandoah River,1629500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1629500_2013_synthetic.csv,912,912
-39.26879879999999,-77.7823029,Bullskin Run-Shenandoah River,1636500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_1636500_2010_synthetic.csv,785,785
-37.591301,-79.3812027,Reed Creek-James River,2024752,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_2024752_2011_synthetic.csv,418,418
-37.5760002,-79.3743973,Reed Creek-James River,2024752,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_2024752_2011_synthetic.csv,418,418
-37.5101013,-79.26589969999998,Harris Creek-James River,2025500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_2025500_2014_synthetic.csv,1131,1131
-35.0326996,-81.4949036,Cherokee Creek-Broad River,2153551,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_2153551_2016_synthetic.csv,778,778
-35.0638008,-81.5484009,Cherokee Creek-Broad River,2153551,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_2153551_2016_synthetic.csv,778,778
-34.529438,-82.3773041,Lake Greenwood-Saluda River,2163500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_2163500_2014_synthetic.csv,1624,1624
-34.16920089999999,-81.9024963,Bush River-Saluda River,2167000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_2167000_2014_synthetic.csv,438,438
-34.7653999,-83.41619870000002,Tallulah River,2181350,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_2181350_2015_synthetic.csv,792,792
-34.7549019,-83.5011978,Tallulah River,2181350,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_2181350_2015_synthetic.csv,792,792
-34.79370120000001,-83.54029849999998,Tallulah River,2181350,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_2181350_2015_synthetic.csv,792,792
-34.7392006,-83.3957977,Tallulah River,2181580,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_2181580_2010_synthetic.csv,792,792
-33.6910019,-83.9942017,Middle Yellow River,2207335,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_2207335_2010_synthetic.csv,1370,1370
-33.9681015,-84.3841019,Sope Creek-Chattahoochee River,2335815,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_2335815_2014_synthetic.csv,705,705
-31.364000300000004,-86.09359740000002,Middle Pea River,2364500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_2364500_2010_synthetic.csv,2108,2108
-37.23332979999999,-82.3450012,Cranes Nest River-Pound River,3209000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_3209000_2015_synthetic.csv,294,294
-40.1539001,-83.1256027,Indian Run-Scioto River,3221000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_3221000_2015_synthetic.csv,1146,1146
-37.8311005,-84.7238998,Clear Creek-Kentucky River,3287000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_3287000_2013_synthetic.csv,1597,1597
-35.771801,-82.61900329999997,Ivy Creek,3453000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_3453000_2011_synthetic.csv,1387,1387
-35.2195015,-83.3712997,Alarka Creek-Little Tennessee River,3503000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_3503000_2011_synthetic.csv,993,993
-46.5717506,-87.4132919,Dead River,4044003,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4044003_2019_synthetic.csv,984,984
-46.5600014,-87.55999759999997,Dead River,4044003,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4044003_2019_synthetic.csv,984,984
-46.33330150000001,-86.8499985,Au Train River,4044724,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4044724_2015_synthetic.csv,1507,1507
-46.3160019,-87.51270290000002,Middle Branch Escanaba River,4058100,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4058100_2013_synthetic.csv,1504,1504
-46.0200005,-88.26170350000002,Paint River,4062000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4062000_2015_synthetic.csv,569,569
-45.7867012,-88.0417023,Squaw Creek-Menominee River,4066003,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4066003_2015_synthetic.csv,520,520
-45.7739983,-87.9889984,Squaw Creek-Menominee River,4066003,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4066003_2015_synthetic.csv,520,520
-45.4799995,-87.803299,Squaw Creek-Menominee River,4066030,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4066030_2015_synthetic.csv,796,796
-45.51369860000001,-87.8018036,Squaw Creek-Menominee River,4066030,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4066030_2015_synthetic.csv,796,796
-45.0466995,-87.7450027,Lower Peshtigo River-Frontal Lake Michigan,4069500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4069500_2015_synthetic.csv,977,977
-44.8578987,-88.0535965,Oconto River,4071765,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4071765_2016_synthetic.csv,522,522
-44.8767014,-88.146698,Oconto River,4071765,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4071765_2016_synthetic.csv,522,522
-44.8699989,-88.14330290000002,Oconto River,4071765,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4071765_2016_synthetic.csv,522,522
-41.6666985,-86.13169859999998,Brandywine Creek-Saint Joseph River,4101225,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4101225_2019_synthetic.csv,975,975
-41.6760941,-86.2461548,Brandywine Creek-Saint Joseph River,4101225,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4101225_2019_synthetic.csv,975,975
-42.5634003,-85.9533005,Kalamazoo River,4108660,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4108660_2014_synthetic.csv,413,413
-42.718399,-84.5607986,Sebewa Creek-Grand River,4113000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4113000_2014_synthetic.csv,1490,1490
-43.4216995,-85.8016968,Brooks Creek-Muskegon River,4122001,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4122001_2018_synthetic.csv,883,883
-44.362999,-85.8199997,Peterson Creek-Manistee River,4124200,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4124200_2015_synthetic.csv,990,990
-44.2583008,-85.93830109999998,Manistee River,4125550,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4125550_2013_synthetic.csv,976,976
-44.6609001,-84.13169859999998,Perry Creek-Au Sable River,4136500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4136500_2013_synthetic.csv,864,864
-44.5619011,-83.80419920000001,Au Sable River,4137005,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4137005_2018_synthetic.csv,863,863
-44.4724998,-83.571701,Au Sable River,4137500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4137500_2013_synthetic.csv,866,866
-44.4850006,-83.6817017,Au Sable River,4137500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4137500_2013_synthetic.csv,866,866
-41.2374001,-84.4000015,Flatrock Creek-Auglaize River,4191500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4191500_2013_synthetic.csv,1349,1349
-43.1612015,-77.61370090000001,Genesee River,4231600,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4231600_2015_synthetic.csv,978,978
-43.1521988,-77.6098022,Genesee River,4231600,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4231600_2015_synthetic.csv,978,978
-42.91490170000001,-76.7871017,Upper Seneca River,4232730,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4232730_2014_synthetic.csv,854,854
-42.9019127,-76.8623276,Upper Seneca River,4232730,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4232730_2014_synthetic.csv,854,854
-42.9286003,-76.5594025,Owasco Lake,4235440,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4235440_2013_synthetic.csv,1775,1775
-42.9319992,-76.5851974,Owasco Lake,4235440,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4235440_2013_synthetic.csv,1775,1775
-43.4432983,-76.495903,Oswego River,4249000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4249000_2013_synthetic.csv,1482,1482
-43.5444984,-75.91950229999998,Salmon River,4250200,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4250200_2011_synthetic.csv,1525,1525
-43.91910170000001,-75.242897,Lower Beaver River,4258000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4258000_2018_synthetic.csv,1015,1015
-43.9017982,-75.1948013,Lower Beaver River,4258000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4258000_2018_synthetic.csv,1015,1015
-43.9272995,-75.2886963,Lower Beaver River,4258000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4258000_2018_synthetic.csv,1015,1015
-43.9277992,-75.31169890000002,Lower Beaver River,4258000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4258000_2018_synthetic.csv,1015,1015
-43.92750170000001,-75.3320007,Lower Beaver River,4258000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4258000_2018_synthetic.csv,1015,1015
-43.9248009,-75.373497,Lower Beaver River,4258000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4258000_2018_synthetic.csv,1015,1015
-43.8995018,-75.0522995,Lower Beaver River,4258000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4258000_2018_synthetic.csv,1015,1015
-44.2126999,-75.0370026,Stammer Creek-Oswegatchie River,4262000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4262000_2013_synthetic.csv,1059,1059
-44.2215004,-75.07379909999999,Stammer Creek-Oswegatchie River,4262000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4262000_2013_synthetic.csv,1059,1059
-44.212101,-74.99890140000002,Stammer Creek-Oswegatchie River,4262000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4262000_2013_synthetic.csv,1059,1059
-44.2206001,-74.8482971,Stammer Creek-Oswegatchie River,4262000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4262000_2013_synthetic.csv,1059,1059
-44.6273003,-73.7578964,Saranac River,4273500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4273500_2018_synthetic.csv,1076,1076
-44.69680020000001,-73.6278,Saranac River,4273500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4273500_2018_synthetic.csv,1076,1076
-44.6959991,-73.6136017,Saranac River,4273500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4273500_2018_synthetic.csv,1076,1076
-44.7018013,-73.6053009,Saranac River,4273500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4273500_2018_synthetic.csv,1076,1076
-44.6693001,-73.50779720000001,Saranac River,4273500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4273500_2018_synthetic.csv,1076,1076
-43.6029015,-73.01270290000002,Headwaters Otter Creek,4282000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4282000_2014_synthetic.csv,861,861
-43.6495094,-72.9535675,Headwaters Otter Creek,4282000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4282000_2014_synthetic.csv,861,861
-43.6300049,-72.98518370000002,Headwaters Otter Creek,4282000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4282000_2014_synthetic.csv,861,861
-43.7231216,-72.9232559,Headwaters Otter Creek,4282000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4282000_2014_synthetic.csv,861,861
-44.3096008,-72.57520290000002,North Branch Winooski River,4285500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4285500_2017_synthetic.csv,1270,1270
-44.3722992,-72.54570009999998,North Branch Winooski River,4285500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4285500_2017_synthetic.csv,1270,1270
-44.4822006,-73.1147995,Winooski River,4290500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4290500_2010_synthetic.csv,915,915
-44.6511993,-72.9906998,Gihon River-Lamoille River,4292500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4292500_2010_synthetic.csv,677,677
-44.91685870000001,-72.3964767,Headwaters Missisquoi River,4293000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4293000_2015_synthetic.csv,2173,2173
-44.9339981,-73.0479965,Outlet Missisquoi River,4294000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_4294000_2015_synthetic.csv,944,944
-48.5999985,-93.4000015,Sturgeon Creek-Rainy River,5129515,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_5129515_2016_synthetic.csv,1275,1275
-47.4835739,-94.7298431,Cass Lake-Mississippi River,5200510,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_5200510_2013_synthetic.csv,1602,1602
-46.3778992,-94.1830978,City of Brainerd-Mississippi River,5242300,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_5242300_2013_synthetic.csv,931,931
-46.3050003,-94.3783035,Crow Wing River,5247500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_5247500_2018_synthetic.csv,870,870
-45.8600006,-94.3582993,City of Sartell-Mississippi River,5267000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_5267000_2011_synthetic.csv,379,379
-45.54759979999999,-94.1473007,City of Saint Cloud-Mississippi River,5270700,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_5270700_2018_synthetic.csv,1764,1764
-45.2639999,-92.2639999,Willow River,5341752,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_5341752_2013_synthetic.csv,1123,1123
-44.8552208,-92.6342392,Kinnickinnic River,5342000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_5342000_2013_synthetic.csv,1479,1479
-44.7999992,-92.6333008,Kinnickinnic River,5342000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_5342000_2013_synthetic.csv,1479,1479
-44.5167007,-92.9332962,Middle Cannon River,5355092,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_5355092_2018_synthetic.csv,1334,1334
-43.9166985,-91.0667038,Lower La Crosse River,5383075,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_5383075_2010_synthetic.csv,1871,1871
-42.10329820000001,-91.2917023,Mill Creek-Wapsipinicon River,5421740,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_5421740_2017_synthetic.csv,1409,1409
-41.8462982,-89.4810028,Threemile Branch-Rock River,5442300,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_5442300_2010_synthetic.csv,862,862
-41.75,-89.6667023,Deer Creek-Rock River,5443500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_5443500_2013_synthetic.csv,1366,1366
-39.5244179,-91.6439438,Ely Creek-Salt River,5507800,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_5507800_2016_synthetic.csv,171,171
-45.2252998,-109.7593002,Rosebud Creek,6204070,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_6204070_2013_synthetic.csv,737,737
-39.6500015,-105.71890259999998,Upper Clear Creek,6714500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_6714500_2019_synthetic.csv,788,788
-40.3649979,-105.2360306,Outlet Big Thompson River,6741510,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_6741510_2012_synthetic.csv,18,18
-41.4832993,-97.3666992,Lost Creek-Platte River,6796000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_6796000_2015_synthetic.csv,436,436
-38.20309829999999,-92.6248016,Saline Creek-Osage River,6926000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_6926000_2018_synthetic.csv,388,388
-39.2527008,-106.37480159999998,Headwaters Arkansas River,7083710,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_7083710_2010_synthetic.csv,103,103
-36.2661018,-95.1055984,Lake Hudson-Neosho River,7191500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_7191500_2016_synthetic.csv,923,923
-34.7943001,-92.3578033,Fourche Creek-Arkansas River,7263450,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_7263450_2010_synthetic.csv,305,305
-33.068199199999995,-96.9639969,Timber Creek-Elm Fork Trinity River,8053000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_8053000_2010_synthetic.csv,275,275
-29.8701,-98.1948013,Comal River-Guadalupe River,8167800,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_8167800_2017_synthetic.csv,274,274
-29.4958744,-97.624588,Mill Creek-Guadalupe River,8169845,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_8169845_2019_synthetic.csv,1628,1628
-29.4967995,-97.4549026,Mill Creek-Guadalupe River,8173900,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_8173900_2018_synthetic.csv,1151,1151
-33.1533585,-107.1919708,Palomas Creek-Rio Grande,8361000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_8361000_2015_synthetic.csv,16,16
-39.6207008,-106.0662003,Middle Blue River,9050700,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_9050700_2016_synthetic.csv,1247,1247
-39.8788071,-106.3327255,Lower Blue River,9057500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_9057500_2016_synthetic.csv,25,25
-39.4339981,-106.6135025,Fryingpan River,9079450,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_9079450_2017_synthetic.csv,1741,1741
-39.3623009,-106.8212967,Fryingpan River,9080400,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_9080400_2017_synthetic.csv,101,101
-38.5105743,-107.6253357,Black Canyon of the Gunnison,9128000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_9128000_2016_synthetic.csv,13,13
-42.0270119,-110.0639725,Eightmile Wash-Green River,9211200,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_9211200_2015_synthetic.csv,20,20
-40.285099,-106.8305969,Headwaters Yampa River,9237500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_9237500_2010_synthetic.csv,2048,2048
-37.3717995,-107.5793991,Middle Los Pinos River,9353800,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_9353800_2014_synthetic.csv,97,97
-36.936615,-111.4838715,Water Holes Canyon-Colorado River,9380000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_9380000_2015_synthetic.csv,22,22
-37.2808495,-113.7279205,Lower Santa Clara River,9410100,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_9410100_2016_synthetic.csv,1447,1447
-35.1970444,-114.57067109999998,Silver Creek Wash-Colorado River,9423000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_9423000_2012_synthetic.csv,14,14
-34.2953339,-114.1402206,Osborne Wash-Colorado River,9427520,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_9427520_2017_synthetic.csv,47,47
-41.6272011,-111.6781006,Blacksmith Fork,10113500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_10113500_2012_synthetic.csv,1231,422
-40.96459960000001,-111.433403,Main Canyon Creek-Weber River,10132000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_10132000_2016_synthetic.csv,102,102
-41.1375847,-111.8856812,Cottonwood Creek-Weber River,10137000,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_10137000_2016_synthetic.csv,79,79
-41.2545013,-111.8448029,Ogden River,10140100,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_10140100_2012_synthetic.csv,108,108
-41.2346268,-111.9246597,Ogden River,10140700,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_10140700_2012_synthetic.csv,108,108
-40.5966034,-111.4235916,Lake Creek-Provo River,10155200,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_10155200_2010_synthetic.csv,149,149
-38.2858009,-112.4432983,South Creek-Beaver River,10234500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_10234500_2015_synthetic.csv,416,416
-38.2611008,-112.5205002,South Creek-Beaver River,10234500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_10234500_2015_synthetic.csv,416,416
-38.2696991,-112.4804993,South Creek-Beaver River,10234500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_10234500_2015_synthetic.csv,416,416
-39.46289829999999,-119.0658035,Soda Lake-Carson River,10312275,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_10312275_2012_synthetic.csv,69,69
-39.4704475,-120.1045532,Little Truckee River,10344500,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_10344500_2013_synthetic.csv,55,55
-38.7182007,-123.0086975,Dry Creek,11465200,/Users/galljf/OneDrive - Idaho National Laboratory/code/hat/data/existing_plants/synthetic_profiles/ed_11465200_2012_synthetic.csv,270,270
+45.1580505,-67.4016571,Lower Saint Croix River,1021000,./data/hydro/existing_plants/synthetic_profiles/ed_1021000_2010_synthetic.csv,1681,1681
+44.7865982,-71.1249008,Stearns Brook-Androscoggin River,1053500,./data/hydro/existing_plants/synthetic_profiles/ed_1053500_2013_synthetic.csv,1178,1178
+44.4569473,-71.1860657,Stearns Brook-Androscoggin River,1054000,./data/hydro/existing_plants/synthetic_profiles/ed_1054000_2013_synthetic.csv,726,726
+44.6330986,-71.2483978,Stearns Brook-Androscoggin River,1054000,./data/hydro/existing_plants/synthetic_profiles/ed_1054000_2013_synthetic.csv,726,726
+44.4900017,-71.2201385,Stearns Brook-Androscoggin River,1054000,./data/hydro/existing_plants/synthetic_profiles/ed_1054000_2013_synthetic.csv,726,726
+44.5425987,-70.5465012,Swift River-Androscoggin River,1054500,./data/hydro/existing_plants/synthetic_profiles/ed_1054500_2014_synthetic.csv,780,780
+44.4752007,-70.6296997,Swift River-Androscoggin River,1054500,./data/hydro/existing_plants/synthetic_profiles/ed_1054500_2014_synthetic.csv,780,780
+43.5345001,-71.4681015,Winnipesaukee River,1081000,./data/hydro/existing_plants/synthetic_profiles/ed_1081000_2014_synthetic.csv,1864,1864
+42.8596001,-71.9614029,Upper Contoocook River,1082000,./data/hydro/existing_plants/synthetic_profiles/ed_1082000_2017_synthetic.csv,1772,1772
+42.8170013,-72.0086975,Upper Contoocook River,1082000,./data/hydro/existing_plants/synthetic_profiles/ed_1082000_2017_synthetic.csv,1772,1772
+43.0185013,-71.5979004,Piscataquog River,1091500,./data/hydro/existing_plants/synthetic_profiles/ed_1091500_2019_synthetic.csv,1180,1180
+42.7496986,-71.8367004,Souhegan River,1094000,./data/hydro/existing_plants/synthetic_profiles/ed_1094000_2019_synthetic.csv,1982,1982
+42.7669983,-71.8125,Souhegan River,1094000,./data/hydro/existing_plants/synthetic_profiles/ed_1094000_2019_synthetic.csv,1982,1982
+42.7687988,-71.8108978,Souhegan River,1094000,./data/hydro/existing_plants/synthetic_profiles/ed_1094000_2019_synthetic.csv,1982,1982
+42.6651993,-71.5757751,Nissitissit River-Nashua River,1096500,./data/hydro/existing_plants/synthetic_profiles/ed_1096500_2014_synthetic.csv,1562,1562
+42.6481018,-71.3087006,Stony Brook-Merrimack River,1100000,./data/hydro/existing_plants/synthetic_profiles/ed_1100000_2014_synthetic.csv,1720,1720
+42.6418991,-71.3160019,Stony Brook-Merrimack River,1100000,./data/hydro/existing_plants/synthetic_profiles/ed_1100000_2014_synthetic.csv,1720,1720
+42.6441994,-71.3076019,Stony Brook-Merrimack River,1100000,./data/hydro/existing_plants/synthetic_profiles/ed_1100000_2014_synthetic.csv,1720,1720
+41.9171982,-70.6269989,North River-Frontal Massachusetts Bay,1105876,./data/hydro/existing_plants/synthetic_profiles/ed_1105876_2015_synthetic.csv,1863,1863
+41.9011002,-71.389801,Lower Blackstone River,1113895,./data/hydro/existing_plants/synthetic_profiles/ed_1113895_2013_synthetic.csv,1725,1725
+42.0633011,-71.8806992,French River,1125100,./data/hydro/existing_plants/synthetic_profiles/ed_1125100_2013_synthetic.csv,1832,1832
+44.3745995,-72.0263977,Passumpsic River,1135500,./data/hydro/existing_plants/synthetic_profiles/ed_1135500_2014_synthetic.csv,1973,1973
+43.6050987,-72.3597031,Ottauquechee River,1151500,./data/hydro/existing_plants/synthetic_profiles/ed_1151500_2017_synthetic.csv,256,256
+43.3855019,-72.0820007,Sugar River,1152010,./data/hydro/existing_plants/synthetic_profiles/ed_1152010_2018_synthetic.csv,1840,1840
+43.3744011,-72.3468018,Sugar River,1152500,./data/hydro/existing_plants/synthetic_profiles/ed_1152500_2010_synthetic.csv,1355,1355
+43.3744011,-72.3494034,Sugar River,1152500,./data/hydro/existing_plants/synthetic_profiles/ed_1152500_2010_synthetic.csv,1355,1355
+42.6791,-72.0477982,Upper Millers River,1162000,./data/hydro/existing_plants/synthetic_profiles/ed_1162000_2014_synthetic.csv,1992,1992
+42.5894012,-72.3100967,Lower Millers River,1166500,./data/hydro/existing_plants/synthetic_profiles/ed_1166500_2010_synthetic.csv,1844,1844
+42.5960999,-72.2192001,Lower Millers River,1166500,./data/hydro/existing_plants/synthetic_profiles/ed_1166500_2010_synthetic.csv,1844,1844
+42.5965004,-72.2205963,Lower Millers River,1166500,./data/hydro/existing_plants/synthetic_profiles/ed_1166500_2010_synthetic.csv,1844,1844
+42.591301,-72.7306976,Lower Deerfield River,1170000,./data/hydro/existing_plants/synthetic_profiles/ed_1170000_2010_synthetic.csv,766,766
+42.2136078,-72.6023331,Batchelor Brook-Connecticut River,1172010,./data/hydro/existing_plants/synthetic_profiles/ed_1172010_2010_synthetic.csv,534,534
+42.1948509,-72.6137924,Batchelor Brook-Connecticut River,1172010,./data/hydro/existing_plants/synthetic_profiles/ed_1172010_2010_synthetic.csv,534,534
+42.1955986,-72.612999,Batchelor Brook-Connecticut River,1172010,./data/hydro/existing_plants/synthetic_profiles/ed_1172010_2010_synthetic.csv,534,534
+42.1948967,-72.6043549,Batchelor Brook-Connecticut River,1172010,./data/hydro/existing_plants/synthetic_profiles/ed_1172010_2010_synthetic.csv,534,534
+42.1568985,-72.422699,Chicopee River,1177000,./data/hydro/existing_plants/synthetic_profiles/ed_1177000_2010_synthetic.csv,1347,1347
+42.1773987,-72.4092026,Chicopee River,1177000,./data/hydro/existing_plants/synthetic_profiles/ed_1177000_2010_synthetic.csv,1347,1347
+42.1562996,-72.4848022,Chicopee River,1177000,./data/hydro/existing_plants/synthetic_profiles/ed_1177000_2010_synthetic.csv,1347,1347
+43.3049011,-73.6429977,Snook Kill-Hudson River,1327750,./data/hydro/existing_plants/synthetic_profiles/ed_1327750_2013_synthetic.csv,816,816
+43.3049011,-73.6429977,Snook Kill-Hudson River,1327750,./data/hydro/existing_plants/synthetic_profiles/ed_1327750_2013_synthetic.csv,816,816
+43.2346001,-73.7574005,Snook Kill-Hudson River,1327750,./data/hydro/existing_plants/synthetic_profiles/ed_1327750_2013_synthetic.csv,816,816
+43.290699,-73.6661987,Snook Kill-Hudson River,1327750,./data/hydro/existing_plants/synthetic_profiles/ed_1327750_2013_synthetic.csv,816,816
+43.2467003,-73.828598,Snook Kill-Hudson River,1327750,./data/hydro/existing_plants/synthetic_profiles/ed_1327750_2013_synthetic.csv,816,816
+43.2969017,-73.592598,Snook Kill-Hudson River,1327750,./data/hydro/existing_plants/synthetic_profiles/ed_1327750_2013_synthetic.csv,816,816
+43.1851997,-75.0178986,Lower West Canada Creek,1346000,./data/hydro/existing_plants/synthetic_profiles/ed_1346000_2014_synthetic.csv,1271,1271
+43.0372009,-74.8647003,Nowadaga Creek-Mohawk River,1347000,./data/hydro/existing_plants/synthetic_profiles/ed_1347000_2014_synthetic.csv,1201,1201
+43.0622368,-74.7656479,East Canada Creek,1348000,./data/hydro/existing_plants/synthetic_profiles/ed_1348000_2010_synthetic.csv,1218,1218
+42.4450989,-74.4384003,West Kill-Schoharie Creek,1350180,./data/hydro/existing_plants/synthetic_profiles/ed_1350180_2013_synthetic.csv,1037,1037
+41.8297005,-74.1330032,Lower Rondout Creek,1367500,./data/hydro/existing_plants/synthetic_profiles/ed_1367500_2013_synthetic.csv,1147,1147
+41.6052017,-74.1865005,Lower Wallkill River,1371500,./data/hydro/existing_plants/synthetic_profiles/ed_1371500_2013_synthetic.csv,1815,1815
+40.5393982,-78.0351028,Juniata River,1559000,./data/hydro/existing_plants/synthetic_profiles/ed_1559000_2010_synthetic.csv,1399,1399
+38.4816399,-78.6273193,Hawksbill Creek-South Fork Shenandoah River,1629500,./data/hydro/existing_plants/synthetic_profiles/ed_1629500_2013_synthetic.csv,912,912
+39.2687988,-77.7823029,Bullskin Run-Shenandoah River,1636500,./data/hydro/existing_plants/synthetic_profiles/ed_1636500_2010_synthetic.csv,785,785
+37.591301,-79.3812027,Reed Creek-James River,2024752,./data/hydro/existing_plants/synthetic_profiles/ed_2024752_2011_synthetic.csv,418,418
+37.5760002,-79.3743973,Reed Creek-James River,2024752,./data/hydro/existing_plants/synthetic_profiles/ed_2024752_2011_synthetic.csv,418,418
+37.5101013,-79.2658997,Harris Creek-James River,2025500,./data/hydro/existing_plants/synthetic_profiles/ed_2025500_2014_synthetic.csv,1131,1131
+35.0326996,-81.4949036,Cherokee Creek-Broad River,2153551,./data/hydro/existing_plants/synthetic_profiles/ed_2153551_2016_synthetic.csv,778,778
+35.0638008,-81.5484009,Cherokee Creek-Broad River,2153551,./data/hydro/existing_plants/synthetic_profiles/ed_2153551_2016_synthetic.csv,778,778
+34.529438,-82.3773041,Lake Greenwood-Saluda River,2163500,./data/hydro/existing_plants/synthetic_profiles/ed_2163500_2014_synthetic.csv,1624,1624
+34.1692009,-81.9024963,Bush River-Saluda River,2167000,./data/hydro/existing_plants/synthetic_profiles/ed_2167000_2014_synthetic.csv,438,438
+34.7653999,-83.4161987,Tallulah River,2181350,./data/hydro/existing_plants/synthetic_profiles/ed_2181350_2015_synthetic.csv,792,792
+34.7549019,-83.5011978,Tallulah River,2181350,./data/hydro/existing_plants/synthetic_profiles/ed_2181350_2015_synthetic.csv,792,792
+34.7937012,-83.5402985,Tallulah River,2181350,./data/hydro/existing_plants/synthetic_profiles/ed_2181350_2015_synthetic.csv,792,792
+34.7392006,-83.3957977,Tallulah River,2181580,./data/hydro/existing_plants/synthetic_profiles/ed_2181580_2010_synthetic.csv,792,792
+33.6910019,-83.9942017,Middle Yellow River,2207335,./data/hydro/existing_plants/synthetic_profiles/ed_2207335_2010_synthetic.csv,1370,1370
+33.9681015,-84.3841019,Sope Creek-Chattahoochee River,2335815,./data/hydro/existing_plants/synthetic_profiles/ed_2335815_2014_synthetic.csv,705,705
+31.3640003,-86.0935974,Middle Pea River,2364500,./data/hydro/existing_plants/synthetic_profiles/ed_2364500_2010_synthetic.csv,2108,2108
+37.2333298,-82.3450012,Cranes Nest River-Pound River,3209000,./data/hydro/existing_plants/synthetic_profiles/ed_3209000_2015_synthetic.csv,294,294
+40.1539001,-83.1256027,Indian Run-Scioto River,3221000,./data/hydro/existing_plants/synthetic_profiles/ed_3221000_2015_synthetic.csv,1146,1146
+37.8311005,-84.7238998,Clear Creek-Kentucky River,3287000,./data/hydro/existing_plants/synthetic_profiles/ed_3287000_2013_synthetic.csv,1597,1597
+35.771801,-82.6190033,Ivy Creek,3453000,./data/hydro/existing_plants/synthetic_profiles/ed_3453000_2011_synthetic.csv,1387,1387
+35.2195015,-83.3712997,Alarka Creek-Little Tennessee River,3503000,./data/hydro/existing_plants/synthetic_profiles/ed_3503000_2011_synthetic.csv,993,993
+46.5717506,-87.4132919,Dead River,4044003,./data/hydro/existing_plants/synthetic_profiles/ed_4044003_2019_synthetic.csv,984,984
+46.5600014,-87.5599976,Dead River,4044003,./data/hydro/existing_plants/synthetic_profiles/ed_4044003_2019_synthetic.csv,984,984
+46.3333015,-86.8499985,Au Train River,4044724,./data/hydro/existing_plants/synthetic_profiles/ed_4044724_2015_synthetic.csv,1507,1507
+46.3160019,-87.5127029,Middle Branch Escanaba River,4058100,./data/hydro/existing_plants/synthetic_profiles/ed_4058100_2013_synthetic.csv,1504,1504
+46.0200005,-88.2617035,Paint River,4062000,./data/hydro/existing_plants/synthetic_profiles/ed_4062000_2015_synthetic.csv,569,569
+45.7867012,-88.0417023,Squaw Creek-Menominee River,4066003,./data/hydro/existing_plants/synthetic_profiles/ed_4066003_2015_synthetic.csv,520,520
+45.7739983,-87.9889984,Squaw Creek-Menominee River,4066003,./data/hydro/existing_plants/synthetic_profiles/ed_4066003_2015_synthetic.csv,520,520
+45.4799995,-87.803299,Squaw Creek-Menominee River,4066030,./data/hydro/existing_plants/synthetic_profiles/ed_4066030_2015_synthetic.csv,796,796
+45.5136986,-87.8018036,Squaw Creek-Menominee River,4066030,./data/hydro/existing_plants/synthetic_profiles/ed_4066030_2015_synthetic.csv,796,796
+45.0466995,-87.7450027,Lower Peshtigo River-Frontal Lake Michigan,4069500,./data/hydro/existing_plants/synthetic_profiles/ed_4069500_2015_synthetic.csv,977,977
+44.8578987,-88.0535965,Oconto River,4071765,./data/hydro/existing_plants/synthetic_profiles/ed_4071765_2016_synthetic.csv,522,522
+44.8767014,-88.146698,Oconto River,4071765,./data/hydro/existing_plants/synthetic_profiles/ed_4071765_2016_synthetic.csv,522,522
+44.8699989,-88.1433029,Oconto River,4071765,./data/hydro/existing_plants/synthetic_profiles/ed_4071765_2016_synthetic.csv,522,522
+41.6666985,-86.1316986,Brandywine Creek-Saint Joseph River,4101225,./data/hydro/existing_plants/synthetic_profiles/ed_4101225_2019_synthetic.csv,975,975
+41.6760941,-86.2461548,Brandywine Creek-Saint Joseph River,4101225,./data/hydro/existing_plants/synthetic_profiles/ed_4101225_2019_synthetic.csv,975,975
+42.5634003,-85.9533005,Kalamazoo River,4108660,./data/hydro/existing_plants/synthetic_profiles/ed_4108660_2014_synthetic.csv,413,413
+42.718399,-84.5607986,Sebewa Creek-Grand River,4113000,./data/hydro/existing_plants/synthetic_profiles/ed_4113000_2014_synthetic.csv,1490,1490
+43.4216995,-85.8016968,Brooks Creek-Muskegon River,4122001,./data/hydro/existing_plants/synthetic_profiles/ed_4122001_2018_synthetic.csv,883,883
+44.362999,-85.8199997,Peterson Creek-Manistee River,4124200,./data/hydro/existing_plants/synthetic_profiles/ed_4124200_2015_synthetic.csv,990,990
+44.2583008,-85.9383011,Manistee River,4125550,./data/hydro/existing_plants/synthetic_profiles/ed_4125550_2013_synthetic.csv,976,976
+44.6609001,-84.1316986,Perry Creek-Au Sable River,4136500,./data/hydro/existing_plants/synthetic_profiles/ed_4136500_2013_synthetic.csv,864,864
+44.5619011,-83.8041992,Au Sable River,4137005,./data/hydro/existing_plants/synthetic_profiles/ed_4137005_2018_synthetic.csv,863,863
+44.4724998,-83.571701,Au Sable River,4137500,./data/hydro/existing_plants/synthetic_profiles/ed_4137500_2013_synthetic.csv,866,866
+44.4850006,-83.6817017,Au Sable River,4137500,./data/hydro/existing_plants/synthetic_profiles/ed_4137500_2013_synthetic.csv,866,866
+41.2374001,-84.4000015,Flatrock Creek-Auglaize River,4191500,./data/hydro/existing_plants/synthetic_profiles/ed_4191500_2013_synthetic.csv,1349,1349
+43.1612015,-77.6137009,Genesee River,4231600,./data/hydro/existing_plants/synthetic_profiles/ed_4231600_2015_synthetic.csv,978,978
+43.1521988,-77.6098022,Genesee River,4231600,./data/hydro/existing_plants/synthetic_profiles/ed_4231600_2015_synthetic.csv,978,978
+42.9149017,-76.7871017,Upper Seneca River,4232730,./data/hydro/existing_plants/synthetic_profiles/ed_4232730_2014_synthetic.csv,854,854
+42.9019127,-76.8623276,Upper Seneca River,4232730,./data/hydro/existing_plants/synthetic_profiles/ed_4232730_2014_synthetic.csv,854,854
+42.9286003,-76.5594025,Owasco Lake,4235440,./data/hydro/existing_plants/synthetic_profiles/ed_4235440_2013_synthetic.csv,1775,1775
+42.9319992,-76.5851974,Owasco Lake,4235440,./data/hydro/existing_plants/synthetic_profiles/ed_4235440_2013_synthetic.csv,1775,1775
+43.4432983,-76.495903,Oswego River,4249000,./data/hydro/existing_plants/synthetic_profiles/ed_4249000_2013_synthetic.csv,1482,1482
+43.5444984,-75.9195023,Salmon River,4250200,./data/hydro/existing_plants/synthetic_profiles/ed_4250200_2011_synthetic.csv,1525,1525
+43.9191017,-75.242897,Lower Beaver River,4258000,./data/hydro/existing_plants/synthetic_profiles/ed_4258000_2018_synthetic.csv,1015,1015
+43.9017982,-75.1948013,Lower Beaver River,4258000,./data/hydro/existing_plants/synthetic_profiles/ed_4258000_2018_synthetic.csv,1015,1015
+43.9272995,-75.2886963,Lower Beaver River,4258000,./data/hydro/existing_plants/synthetic_profiles/ed_4258000_2018_synthetic.csv,1015,1015
+43.9277992,-75.3116989,Lower Beaver River,4258000,./data/hydro/existing_plants/synthetic_profiles/ed_4258000_2018_synthetic.csv,1015,1015
+43.9275017,-75.3320007,Lower Beaver River,4258000,./data/hydro/existing_plants/synthetic_profiles/ed_4258000_2018_synthetic.csv,1015,1015
+43.9248009,-75.373497,Lower Beaver River,4258000,./data/hydro/existing_plants/synthetic_profiles/ed_4258000_2018_synthetic.csv,1015,1015
+43.8995018,-75.0522995,Lower Beaver River,4258000,./data/hydro/existing_plants/synthetic_profiles/ed_4258000_2018_synthetic.csv,1015,1015
+44.2126999,-75.0370026,Stammer Creek-Oswegatchie River,4262000,./data/hydro/existing_plants/synthetic_profiles/ed_4262000_2013_synthetic.csv,1059,1059
+44.2215004,-75.0737991,Stammer Creek-Oswegatchie River,4262000,./data/hydro/existing_plants/synthetic_profiles/ed_4262000_2013_synthetic.csv,1059,1059
+44.212101,-74.9989014,Stammer Creek-Oswegatchie River,4262000,./data/hydro/existing_plants/synthetic_profiles/ed_4262000_2013_synthetic.csv,1059,1059
+44.2206001,-74.8482971,Stammer Creek-Oswegatchie River,4262000,./data/hydro/existing_plants/synthetic_profiles/ed_4262000_2013_synthetic.csv,1059,1059
+44.6273003,-73.7578964,Saranac River,4273500,./data/hydro/existing_plants/synthetic_profiles/ed_4273500_2018_synthetic.csv,1076,1076
+44.6968002,-73.6278,Saranac River,4273500,./data/hydro/existing_plants/synthetic_profiles/ed_4273500_2018_synthetic.csv,1076,1076
+44.6959991,-73.6136017,Saranac River,4273500,./data/hydro/existing_plants/synthetic_profiles/ed_4273500_2018_synthetic.csv,1076,1076
+44.7018013,-73.6053009,Saranac River,4273500,./data/hydro/existing_plants/synthetic_profiles/ed_4273500_2018_synthetic.csv,1076,1076
+44.6693001,-73.5077972,Saranac River,4273500,./data/hydro/existing_plants/synthetic_profiles/ed_4273500_2018_synthetic.csv,1076,1076
+43.6029015,-73.0127029,Headwaters Otter Creek,4282000,./data/hydro/existing_plants/synthetic_profiles/ed_4282000_2014_synthetic.csv,861,861
+43.6495094,-72.9535675,Headwaters Otter Creek,4282000,./data/hydro/existing_plants/synthetic_profiles/ed_4282000_2014_synthetic.csv,861,861
+43.6300049,-72.9851837,Headwaters Otter Creek,4282000,./data/hydro/existing_plants/synthetic_profiles/ed_4282000_2014_synthetic.csv,861,861
+43.7231216,-72.9232559,Headwaters Otter Creek,4282000,./data/hydro/existing_plants/synthetic_profiles/ed_4282000_2014_synthetic.csv,861,861
+44.3096008,-72.5752029,North Branch Winooski River,4285500,./data/hydro/existing_plants/synthetic_profiles/ed_4285500_2017_synthetic.csv,1270,1270
+44.3722992,-72.5457001,North Branch Winooski River,4285500,./data/hydro/existing_plants/synthetic_profiles/ed_4285500_2017_synthetic.csv,1270,1270
+44.4822006,-73.1147995,Winooski River,4290500,./data/hydro/existing_plants/synthetic_profiles/ed_4290500_2010_synthetic.csv,915,915
+44.6511993,-72.9906998,Gihon River-Lamoille River,4292500,./data/hydro/existing_plants/synthetic_profiles/ed_4292500_2010_synthetic.csv,677,677
+44.9168587,-72.3964767,Headwaters Missisquoi River,4293000,./data/hydro/existing_plants/synthetic_profiles/ed_4293000_2015_synthetic.csv,2173,2173
+44.9339981,-73.0479965,Outlet Missisquoi River,4294000,./data/hydro/existing_plants/synthetic_profiles/ed_4294000_2015_synthetic.csv,944,944
+48.5999985,-93.4000015,Sturgeon Creek-Rainy River,5129515,./data/hydro/existing_plants/synthetic_profiles/ed_5129515_2016_synthetic.csv,1275,1275
+47.4835739,-94.7298431,Cass Lake-Mississippi River,5200510,./data/hydro/existing_plants/synthetic_profiles/ed_5200510_2013_synthetic.csv,1602,1602
+46.3778992,-94.1830978,City of Brainerd-Mississippi River,5242300,./data/hydro/existing_plants/synthetic_profiles/ed_5242300_2013_synthetic.csv,931,931
+46.3050003,-94.3783035,Crow Wing River,5247500,./data/hydro/existing_plants/synthetic_profiles/ed_5247500_2018_synthetic.csv,870,870
+45.8600006,-94.3582993,City of Sartell-Mississippi River,5267000,./data/hydro/existing_plants/synthetic_profiles/ed_5267000_2011_synthetic.csv,379,379
+45.5475998,-94.1473007,City of Saint Cloud-Mississippi River,5270700,./data/hydro/existing_plants/synthetic_profiles/ed_5270700_2018_synthetic.csv,1764,1764
+45.2639999,-92.2639999,Willow River,5341752,./data/hydro/existing_plants/synthetic_profiles/ed_5341752_2013_synthetic.csv,1123,1123
+44.8552208,-92.6342392,Kinnickinnic River,5342000,./data/hydro/existing_plants/synthetic_profiles/ed_5342000_2013_synthetic.csv,1479,1479
+44.7999992,-92.6333008,Kinnickinnic River,5342000,./data/hydro/existing_plants/synthetic_profiles/ed_5342000_2013_synthetic.csv,1479,1479
+44.5167007,-92.9332962,Middle Cannon River,5355092,./data/hydro/existing_plants/synthetic_profiles/ed_5355092_2018_synthetic.csv,1334,1334
+43.9166985,-91.0667038,Lower La Crosse River,5383075,./data/hydro/existing_plants/synthetic_profiles/ed_5383075_2010_synthetic.csv,1871,1871
+42.1032982,-91.2917023,Mill Creek-Wapsipinicon River,5421740,./data/hydro/existing_plants/synthetic_profiles/ed_5421740_2017_synthetic.csv,1409,1409
+41.8462982,-89.4810028,Threemile Branch-Rock River,5442300,./data/hydro/existing_plants/synthetic_profiles/ed_5442300_2010_synthetic.csv,862,862
+41.75,-89.6667023,Deer Creek-Rock River,5443500,./data/hydro/existing_plants/synthetic_profiles/ed_5443500_2013_synthetic.csv,1366,1366
+39.5244179,-91.6439438,Ely Creek-Salt River,5507800,./data/hydro/existing_plants/synthetic_profiles/ed_5507800_2016_synthetic.csv,171,171
+45.2252998,-109.7593002,Rosebud Creek,6204070,./data/hydro/existing_plants/synthetic_profiles/ed_6204070_2013_synthetic.csv,737,737
+39.6500015,-105.7189026,Upper Clear Creek,6714500,./data/hydro/existing_plants/synthetic_profiles/ed_6714500_2019_synthetic.csv,788,788
+40.3649979,-105.2360306,Outlet Big Thompson River,6741510,./data/hydro/existing_plants/synthetic_profiles/ed_6741510_2012_synthetic.csv,18,18
+41.4832993,-97.3666992,Lost Creek-Platte River,6796000,./data/hydro/existing_plants/synthetic_profiles/ed_6796000_2015_synthetic.csv,436,436
+38.2030983,-92.6248016,Saline Creek-Osage River,6926000,./data/hydro/existing_plants/synthetic_profiles/ed_6926000_2018_synthetic.csv,388,388
+39.2527008,-106.3748016,Headwaters Arkansas River,7083710,./data/hydro/existing_plants/synthetic_profiles/ed_7083710_2010_synthetic.csv,103,103
+36.2661018,-95.1055984,Lake Hudson-Neosho River,7191500,./data/hydro/existing_plants/synthetic_profiles/ed_7191500_2016_synthetic.csv,923,923
+34.7943001,-92.3578033,Fourche Creek-Arkansas River,7263450,./data/hydro/existing_plants/synthetic_profiles/ed_7263450_2010_synthetic.csv,305,305
+33.0681992,-96.9639969,Timber Creek-Elm Fork Trinity River,8053000,./data/hydro/existing_plants/synthetic_profiles/ed_8053000_2010_synthetic.csv,275,275
+29.8701,-98.1948013,Comal River-Guadalupe River,8167800,./data/hydro/existing_plants/synthetic_profiles/ed_8167800_2017_synthetic.csv,274,274
+29.4958744,-97.624588,Mill Creek-Guadalupe River,8169845,./data/hydro/existing_plants/synthetic_profiles/ed_8169845_2019_synthetic.csv,1628,1628
+29.4967995,-97.4549026,Mill Creek-Guadalupe River,8173900,./data/hydro/existing_plants/synthetic_profiles/ed_8173900_2018_synthetic.csv,1151,1151
+33.1533585,-107.1919708,Palomas Creek-Rio Grande,8361000,./data/hydro/existing_plants/synthetic_profiles/ed_8361000_2015_synthetic.csv,16,16
+39.6207008,-106.0662003,Middle Blue River,9050700,./data/hydro/existing_plants/synthetic_profiles/ed_9050700_2016_synthetic.csv,1247,1247
+39.8788071,-106.3327255,Lower Blue River,9057500,./data/hydro/existing_plants/synthetic_profiles/ed_9057500_2016_synthetic.csv,25,25
+39.4339981,-106.6135025,Fryingpan River,9079450,./data/hydro/existing_plants/synthetic_profiles/ed_9079450_2017_synthetic.csv,1741,1741
+39.3623009,-106.8212967,Fryingpan River,9080400,./data/hydro/existing_plants/synthetic_profiles/ed_9080400_2017_synthetic.csv,101,101
+38.5105743,-107.6253357,Black Canyon of the Gunnison,9128000,./data/hydro/existing_plants/synthetic_profiles/ed_9128000_2016_synthetic.csv,13,13
+42.0270119,-110.0639725,Eightmile Wash-Green River,9211200,./data/hydro/existing_plants/synthetic_profiles/ed_9211200_2015_synthetic.csv,20,20
+40.285099,-106.8305969,Headwaters Yampa River,9237500,./data/hydro/existing_plants/synthetic_profiles/ed_9237500_2010_synthetic.csv,2048,2048
+37.3717995,-107.5793991,Middle Los Pinos River,9353800,./data/hydro/existing_plants/synthetic_profiles/ed_9353800_2014_synthetic.csv,97,97
+36.936615,-111.4838715,Water Holes Canyon-Colorado River,9380000,./data/hydro/existing_plants/synthetic_profiles/ed_9380000_2015_synthetic.csv,22,22
+37.2808495,-113.7279205,Lower Santa Clara River,9410100,./data/hydro/existing_plants/synthetic_profiles/ed_9410100_2016_synthetic.csv,1447,1447
+35.1970444,-114.5706711,Silver Creek Wash-Colorado River,9423000,./data/hydro/existing_plants/synthetic_profiles/ed_9423000_2012_synthetic.csv,14,14
+34.2953339,-114.1402206,Osborne Wash-Colorado River,9427520,./data/hydro/existing_plants/synthetic_profiles/ed_9427520_2017_synthetic.csv,47,47
+41.6272011,-111.6781006,Blacksmith Fork,10113500,./data/hydro/existing_plants/synthetic_profiles/ed_10113500_2012_synthetic.csv,1231,422
+40.9645996,-111.433403,Main Canyon Creek-Weber River,10132000,./data/hydro/existing_plants/synthetic_profiles/ed_10132000_2016_synthetic.csv,102,102
+41.1375847,-111.8856812,Cottonwood Creek-Weber River,10137000,./data/hydro/existing_plants/synthetic_profiles/ed_10137000_2016_synthetic.csv,79,79
+41.2545013,-111.8448029,Ogden River,10140100,./data/hydro/existing_plants/synthetic_profiles/ed_10140100_2012_synthetic.csv,108,108
+41.2346268,-111.9246597,Ogden River,10140700,./data/hydro/existing_plants/synthetic_profiles/ed_10140700_2012_synthetic.csv,108,108
+40.5966034,-111.4235916,Lake Creek-Provo River,10155200,./data/hydro/existing_plants/synthetic_profiles/ed_10155200_2010_synthetic.csv,149,149
+38.2858009,-112.4432983,South Creek-Beaver River,10234500,./data/hydro/existing_plants/synthetic_profiles/ed_10234500_2015_synthetic.csv,416,416
+38.2611008,-112.5205002,South Creek-Beaver River,10234500,./data/hydro/existing_plants/synthetic_profiles/ed_10234500_2015_synthetic.csv,416,416
+38.2696991,-112.4804993,South Creek-Beaver River,10234500,./data/hydro/existing_plants/synthetic_profiles/ed_10234500_2015_synthetic.csv,416,416
+39.4628983,-119.0658035,Soda Lake-Carson River,10312275,./data/hydro/existing_plants/synthetic_profiles/ed_10312275_2012_synthetic.csv,69,69
+39.4704475,-120.1045532,Little Truckee River,10344500,./data/hydro/existing_plants/synthetic_profiles/ed_10344500_2013_synthetic.csv,55,55
+38.7182007,-123.0086975,Dry Creek,11465200,./data/hydro/existing_plants/synthetic_profiles/ed_11465200_2012_synthetic.csv,270,270
